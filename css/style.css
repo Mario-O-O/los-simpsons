@@ -1,0 +1,668 @@
+/* Reset básico y fondo oscuro estilo cine */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+}
+
+body {
+  background-color: #141414;
+  color: #fff;
+  overflow: hidden;
+  /* Esto ya lo tenías, ¡es vital dejarlo! */
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100dvh;
+  /* Le decimos al cuerpo entero que respete la altura dinámica */
+}
+
+/* El reproductor ocupa toda la pantalla */
+.video-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  /* Plan B */
+  height: 100dvh;
+  /* La magia */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}
+
+#reproductor {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* Estilos de los botones flotantes (Omitir Intro / Ending) */
+.btn-flotante {
+  position: absolute;
+  bottom: 15%;
+  right: 5%;
+  padding: 12px 24px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 17px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  z-index: 20;
+}
+
+.btn-flotante:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+/* Botón de la interfaz para abrir episodios */
+.btn-interfaz,
+.btn-interfaz-home {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 10px 20px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  color: white;
+  border-radius: 17px;
+  cursor: pointer;
+  font-size: 18px;
+  z-index: 10;
+  transition: background 0.3s;
+}
+
+.btn-interfaz-home {
+  width: 45px;
+  height: 45px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-interfaz-home img {
+  width: 20px;
+  height: 20px;
+  transform: translateY(-2px);
+}
+
+.btn-interfaz:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* --- ESTILOS DEL MODAL --- */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 20;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(5px);
+}
+
+.modal-contenido {
+  background-color: #181818;
+  padding: 30px;
+  padding-top: 50px;
+  border-radius: 35px;
+  width: 90%;
+  max-width: 500px;
+  position: relative;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+.cerrar {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #aaa;
+}
+
+.cerrar:hover {
+  color: #fff;
+}
+
+#lista-videos {
+  list-style: none;
+  margin-top: 20px;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+#lista-videos li {
+  padding: 15px;
+  border-bottom: 1px solid #333;
+  cursor: pointer;
+  transition: background 0.2s;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#lista-videos li:hover {
+  background-color: #333;
+}
+
+#lista-videos li.activo {
+  border-left: 4px solid #e50914;
+  /* Rojo tipo Netflix */
+  background-color: #222;
+}
+
+/* Clase de utilidad para ocultar elementos con JS */
+.oculto {
+  display: none !important;
+}
+
+
+/* --- ESTILOS PANTALLA DE INICIO --- */
+#pantalla-inicio {
+  padding: 40px;
+  width: 100vw;
+  height: 100vh;
+  /* Plan B para celulares muy antiguos */
+  height: 100dvh;
+  /* La magia: Altura Dinámica */
+  overflow-y: auto;
+  background-color: #141414;
+}
+
+.header-inicio {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.ico-burro {
+  width: 100%;
+  max-width: 40px;
+}
+
+.header-inicio h1 {
+  color: #fff;
+  font-size: 2.2rem;
+  font-weight: lighter;
+  line-height: 35px;
+}
+
+/* Cuadrícula adaptable para las portadas */
+.grid-series {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 25px;
+}
+
+/* Tarjeta individual de cada serie */
+.tarjeta-serie {
+  cursor: pointer;
+  background-color: #222;
+  border-radius: 20px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Efecto interactivo al pasar el mouse */
+.tarjeta-serie:hover {
+  transform: scale(1.08);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.8);
+  z-index: 2;
+}
+
+.tarjeta-serie img {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+  display: block;
+}
+
+.tarjeta-serie h3 {
+  padding: 15px 10px;
+  font-size: 1.1rem;
+  text-align: center;
+  color: #fff;
+  margin: 0;
+}
+
+/* --- PANTALLA DE TRANSICIÓN --- */
+.pantalla-mensaje {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  /* Plan B */
+  height: 100dvh;
+  /* La magia */
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 50;
+}
+
+.mensaje-contenido {
+  text-align: center;
+  color: #fff;
+  /* animation: pulse 1.5s infinite; */
+  /* Efecto de latido suave */
+}
+
+.mensaje-contenido h2 {
+  font-size: 2.5rem;
+  color: #fff;
+  /* Rojo tipo Netflix */
+  margin-bottom: 10px;
+}
+
+.mensaje-contenido p {
+  font-size: 1.2rem;
+  color: #aaa;
+}
+
+/* Animación de latido */
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  50% {
+    transform: scale(1.05);
+    opacity: 0.8;
+  }
+
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* --- OVERLAY DE INFORMACIÓN (Títulos sobre la barra) --- */
+.info-pausa {
+  position: absolute;
+  bottom: 95px;
+  /* Justo arriba de la barra de controles inferior */
+  left: 0;
+  width: 100%;
+  padding: 60px 40px 15px 40px;
+  /* background: linear-gradient(to top, rgba(0, 0, 0, 0.95), transparent); */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  /* Texto alineado a la izquierda */
+  z-index: 10;
+  pointer-events: none;
+  color: white;
+  text-align: left;
+  transition: opacity 0.5s ease;
+  /* Efecto de aparición suave */
+  z-index: 20;
+  opacity: 1;
+  transition: opacity 0.8s ease-in-out;
+  pointer-events: none;
+}
+
+.info-pausa.oculto {
+  display: flex !important;
+  /* Evita que desaparezca de golpe */
+  opacity: 0;
+  /* Lo vuelve transparente */
+  pointer-events: none;
+}
+
+.info-pausa h4 {
+  font-size: 1.1rem;
+  /* Más pequeño que antes */
+  color: #fff;
+  font-weight: normal;
+}
+
+.info-pausa h2 {
+  font-size: 1.8rem;
+  /* Más pequeño que antes */
+  font-weight: bold;
+}
+
+/* --- CONTROLES DE VIDEO PERSONALIZADOS --- */
+.controles-video {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 30px;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.9), transparent);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  z-index: 15;
+}
+
+/* La línea por donde avanza el video */
+.barra-progreso-contenedor {
+  width: 100%;
+  height: 6px;
+  background-color: rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+  border-radius: 4px;
+  position: relative;
+  transition: height 0.2s;
+}
+
+.barra-progreso-contenedor:hover {
+  height: 10px;
+  /* Se hace más gruesa al pasar el mouse */
+}
+
+/* La parte roja que indica el progreso */
+.barra-progreso {
+  height: 100%;
+  background-color: #e50914;
+  width: 0%;
+  /* JS cambiará esto */
+  border-radius: 4px;
+  pointer-events: none;
+  /* Para que el clic vaya al contenedor */
+}
+
+/* Contenedor de Play y Tiempo */
+.controles-botones {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.control-btn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.8rem;
+  cursor: pointer;
+  transition: transform 0.2s, color 0.2s;
+}
+
+.control-btn:hover {
+  transform: scale(1.1);
+  color: #e50914;
+}
+
+#tiempo-texto {
+  font-size: 1rem;
+  color: #ddd;
+  font-family: monospace;
+  /* Para que los números no salten */
+}
+
+/* --- CONTROLES DE VIDEO PERSONALIZADOS --- */
+.controles-video {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 30px;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.9), transparent);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  z-index: 15;
+}
+
+.controles-video * {
+  position: relative;
+}
+
+.controles-video::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  pointer-events: none;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.95), transparent);
+  z-index: 0;
+}
+
+
+/* La línea por donde avanza el video */
+.barra-progreso-contenedor {
+  width: 100%;
+  height: 6px;
+  background-color: rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+  border-radius: 4px;
+  position: relative;
+  transition: height 0.2s;
+}
+
+.barra-progreso-contenedor:hover {
+  height: 10px;
+  /* Se hace más gruesa al pasar el mouse */
+}
+
+/* La parte roja que indica el progreso */
+.barra-progreso {
+  height: 100%;
+  background-color: #e50914;
+  width: 0%;
+  /* JS cambiará esto */
+  border-radius: 4px;
+  pointer-events: none;
+  /* Para que el clic vaya al contenedor */
+}
+
+/* Contenedor de Play y Tiempo */
+.controles-botones {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.control-btn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.2s, color 0.2s;
+}
+
+.control-btn-2 {
+  font-size: 1.5rem;
+}
+
+.control-btn:hover {
+  transform: scale(1.1);
+  color: #e50914;
+}
+
+/* --- LOADER (Rueda de carga) --- */
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid rgba(255, 255, 255, 0.2);
+  border-top: 5px solid #e50914;
+  /* Rojo */
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 1s linear infinite;
+  z-index: 20;
+  pointer-events: none;
+  /* Para no estorbar los clics */
+}
+
+@keyframes spin {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+/* --- INDICADORES DE SALTO (+10s / -10s) --- */
+.indicador-salto {
+  position: absolute;
+  top: 50%;
+  /* Los centramos verticalmente y los hacemos un 20% más pequeños por defecto */
+  transform: translateY(-50%) scale(0.8);
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 15px 30px;
+  border-radius: 50px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  pointer-events: none;
+  /* Para que los clics traspasen el cartel */
+  z-index: 25;
+
+  /* Hacemos que la aparición sea suave y con efecto de zoom */
+  opacity: 0;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+/* Esta clase la pondremos y quitaremos con JavaScript */
+.indicador-salto.activo {
+  opacity: 1;
+  transform: translateY(-50%) scale(1);
+  /* Efecto de "Pop" */
+}
+
+/* Posiciones a los lados */
+#indicador-retroceder {
+  left: 10%;
+}
+
+#indicador-adelantar {
+  right: 10%;
+}
+
+/* --- SELECTOR DE TEMPORADAS --- */
+.select-temporada {
+  width: 100%;
+  padding: 12px;
+  margin-top: 20px;
+  background-color: #222;
+  color: white;
+  border: 1px solid #444;
+  border-radius: 15px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  position: relative;
+  background-image: url(../assets/icons/flecha-selec.png);
+  background-repeat: no-repeat;
+  background-position: right 1em center;
+  background-size: 0.8em;
+  /* Muestra la flechita nativa del menú */
+}
+
+.select-temporada:hover {
+  border-color: #e50914;
+  /* Un toque rojo al pasar el mouse */
+}
+
+.select-temporada option {
+  background-color: #141414;
+  color: white;
+}
+
+.btn-cerrar {
+  cursor: pointer;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  height: 40px;
+  width: 40px;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #000;
+  border: none;
+  transition: all 0.5s ease;
+}
+
+.btn-cerrar:hover {
+  background: #e50914;
+}
+
+.equis {
+  height: 14px;
+  width: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(45deg);
+}
+
+.line {
+  background-color: #fff;
+  position: absolute;
+}
+
+.line-1 {
+  height: 2px;
+  width: 100%;
+}
+
+.line-2 {
+  width: 2px;
+  height: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+  .info-pausa h2 {
+    font-size: 1.2rem;
+  }
+
+  .info-pausa h4 {
+    font-size: 1rem;
+  }
+
+  .control-btn {
+    font-size: 0.8rem;
+  }
+
+  .control-btn-2 {
+    font-size: 1rem;
+  }
+
+  #tiempo-texto {
+    font-size: 0.6rem;
+  }
+
+  .btn-interfaz {
+    font-size: 0.8rem;
+  }
+
+  .space-x {
+    display: none;
+  }
+
+  .info-pausa {
+    bottom: 75px;
+  }
+}

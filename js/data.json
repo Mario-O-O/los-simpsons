@@ -1,0 +1,1297 @@
+[
+  {
+    "idSerie": "serie-01",
+    "nombreSerie": "Fullmetal Alchemist: Brotherhood",
+    "portada": "./assets/fullmetal-alchemist.jpg",
+    "episodios": [
+      {
+        "idVideo": "fma-01",
+        "titulo": "Ep. 1 - El Alquimista de Acero",
+        "url": "https://www.dropbox.com/scl/fi/dx87etku3r2v1kzmmacqm/full-metal-alchemist-brotherhood-capitulo-1.mp4?rlkey=lzkkwxi1348arpvkzevl8h29q&st=flmddim9&raw=1",
+        "introInicio": 60,
+        "introFin": 147,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-02",
+        "titulo": "Ep. 2 - El día del inicio",
+        "url": "https://www.dropbox.com/scl/fi/q4a0e1i5mnjya3qit30m5/full-metal-alchemist-brotherhood-capitulo-2.mp4?rlkey=26fu0xd0grbqxpiiwzu0lkq8s&st=xqm822sq&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-03",
+        "titulo": "Ep. 3 - La ciudad de la herejía",
+        "url": "https://www.dropbox.com/scl/fi/z5coolz0a5kq913z85muh/full-metal-alchemist-brotherhood-capitulo-3.mp4?rlkey=vdflskhkmkqbypqaf6rti48k3&st=pwpv6nzm&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-04",
+        "titulo": "Ep. 4 - La angustia de un Alquimista",
+        "url": "https://www.dropbox.com/scl/fi/lf48bwai5kuzurn0r2dz8/full-metal-alchemist-brotherhood-capitulo-4.mp4?rlkey=tbdtt7mw3y10mhyrs03ofn2wr&st=395f27a4&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-05",
+        "titulo": "Ep. 5 - Lluvia de tristeza",
+        "url": "https://www.dropbox.com/scl/fi/er748g06aqua7en781327/full-metal-alchemist-brotherhood-capitulo-5.mp4?rlkey=ajkc1o5mi1w8l5t5iy14pnlao&st=rd1ht2xj&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-06",
+        "titulo": "Ep. 6 - El camino hacia la esperanza",
+        "url": "https://www.dropbox.com/scl/fi/dzkumip00hdcb4y439mjh/full-metal-alchemist-brotherhood-capitulo-6.mp4?rlkey=ioqo0gtb6r6b69lwd74dwl19k&st=l19zlx4e&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-07",
+        "titulo": "Ep. 7 - La verdad oculta",
+        "url": "https://www.dropbox.com/scl/fi/qg5l0k8bvf7orgjd9e2tw/full-metal-alchemist-brotherhood-capitulo-7.mp4?rlkey=9v6kabs33asdu6at9pta281ub&st=qf88o33v&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-08",
+        "titulo": "Ep. 8 - Investigando el Laboratorio número 5",
+        "url": "https://www.dropbox.com/scl/fi/bhdoux05dczfjdfe128kn/full-metal-alchemist-brotherhood-capitulo-8.mp4?rlkey=cqirf9tur26xhj8rzv14f5s6t&st=jdh8xmac&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-09",
+        "titulo": "Ep. 9 - Sentimientos creados",
+        "url": "https://www.dropbox.com/scl/fi/ue0jqeieemfc0cw6pc2o0/full-metal-alchemist-brotherhood-capitulo-9.mp4?rlkey=ekar4fyueltagr1ieb5kr65eg&st=slv5dea2&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-10",
+        "titulo": "Ep. 10 - Cada destino",
+        "url": "https://www.dropbox.com/scl/fi/g7elqy87yx6wj4os2s163/full-metal-alchemist-brotherhood-capitulo-10.mp4?rlkey=yki21dvqgdhcat3s44z0zywiz&st=ct4xk7wo&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-11",
+        "titulo": "Ep. 11 - Milagro en Rush Valley",
+        "url": "https://www.dropbox.com/scl/fi/1y7oydbzhqxkrc01wr1d6/full-metal-alchemist-brotherhood-capitulo-11.mp4?rlkey=bx5jypfvz2eqke10bkx1e4lr3&st=w87psi2c&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-12",
+        "titulo": "Ep. 12 - Uno es todo, todo es uno",
+        "url": "https://www.dropbox.com/scl/fi/1wbhosdpg4qfnjwcxkr3d/full-metal-alchemist-brotherhood-capitulo-12.mp4?rlkey=9dkje06o4p155rtcx6x42x5hs&st=vvemblx1&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-13",
+        "titulo": "Ep. 13 - Las bestias de Dublith",
+        "url": "https://www.dropbox.com/scl/fi/nqvfdhxw5ymg7i4docnsx/full-metal-alchemist-brotherhood-capitulo-13.mp4?rlkey=l2819lq6cnoo5lwa8px2ryhs1&st=zftigodo&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-14",
+        "titulo": "Ep. 14 - Aquellos que acechan bajo tierra",
+        "url": "https://www.dropbox.com/scl/fi/gkd6r0mxx2rmneo64j50i/full-metal-alchemist-brotherhood-capitulo-14.mp4?rlkey=0yeow0z31mbytrftahvny9pu2&st=tp4uomsv&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-15",
+        "titulo": "Ep. 15 - Emisario del este",
+        "url": "https://www.dropbox.com/scl/fi/ryo9lsz09saqg5hcpkoc1/full-metal-alchemist-brotherhood-capitulo-15.mp4?rlkey=6x47q4ank63zkd09xmr2krqbn&st=t7pf0p2k&raw=1",
+        "introInicio": 0,
+        "introFin": 118,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-16",
+        "titulo": "Ep. 16 - Pasos de un camarada de guerra",
+        "url": "https://www.dropbox.com/scl/fi/tj4zvt6ls1wqke3dhgirv/full-metal-alchemist-brotherhood-capitulo-16.mp4?rlkey=v1rfzuughf5fglxlbhsijb3hn&st=d194cbak&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-17",
+        "titulo": "Ep. 17 - Llamas serenas",
+        "url": "https://www.dropbox.com/scl/fi/8webl88dss05kesuqys13/full-metal-alchemist-brotherhood-capitulo-17.mp4?rlkey=b0k9oqynooxvkh3hxdmih7d9w&st=5x0ueap4&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-18",
+        "titulo": "Ep. 18 - En la palma de un humano arrogante",
+        "url": "https://www.dropbox.com/scl/fi/nr6gy28yexg7sv30p513y/full-metal-alchemist-brotherhood-capitulo-18.mp4?rlkey=t4h4qmjldwhooyn8yplyq875c&st=82n2fkd3&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-19",
+        "titulo": "Ep. 19 - La muerte del inmortal",
+        "url": "https://www.dropbox.com/scl/fi/doxljy1fkxyjzkcsk669z/full-metal-alchemist-brotherhood-capitulo-19.mp4?rlkey=bx09fz52kz7stb4su0phy61lz&st=bpxp3a3r&raw=1",
+        "introInicio": 11,
+        "introFin": 99,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-20",
+        "titulo": "Ep. 20 - Padre frente a la tumba",
+        "url": "https://www.dropbox.com/scl/fi/7qkx2tfbsi4tswp7lxmhd/full-metal-alchemist-brotherhood-capitulo-20.mp4?rlkey=8xl6trpai9yvi65c7sxrkorv8&st=6vvpn8ht&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-21",
+        "titulo": "Ep. 21 - El progreso del tonto",
+        "url": "https://www.dropbox.com/scl/fi/khv3jl8vjvywym68nl4c6/full-metal-alchemist-brotherhood-capitulo-21.mp4?rlkey=0kjztvocudgieblg7dx2zdql7&st=hpim8o1i&raw=1",
+        "introInicio": 80,
+        "introFin": 169,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-22",
+        "titulo": "Ep. 22 - Espaldas distantes",
+        "url": "https://www.dropbox.com/scl/fi/8b2qvfy42ztg7msp0rz81/full-metal-alchemist-brotherhood-capitulo-22.mp4?rlkey=mfq0k3lglqfj819a6d9ftgv7c&st=i17rs3kw&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-23",
+        "titulo": "Ep. 23 - La chica de la guerra",
+        "url": "https://www.dropbox.com/scl/fi/4fl1nylyezj77e5xiwds1/full-metal-alchemist-brotherhood-capitulo-23.mp4?rlkey=tcy0yxp2vo237imvvlmucymgt&st=mhpq0sac&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-24",
+        "titulo": "Ep. 24 - Dentro del estómago",
+        "url": "https://www.dropbox.com/scl/fi/z5rmkct38hqmywjg2u4wk/full-metal-alchemist-brotherhood-capitulo-24.mp4?rlkey=wms808v51z4q8gp9zc4rqi74i&st=r70h1w4l&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-25",
+        "titulo": "Ep. 25 - La puerta de la oscuridad",
+        "url": "https://www.dropbox.com/scl/fi/f18bzl13ig5hbffkq0h4j/full-metal-alchemist-brotherhood-capitulo-25.mp4?rlkey=wqcjyw71yf29fp8yhcq158y9t&st=gk4s1oh7&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-26",
+        "titulo": "Ep. 26 - Reunión",
+        "url": "https://www.dropbox.com/scl/fi/3u7ph9zk0in024xcaghfb/full-metal-alchemist-brotherhood-capitulo-26.mp4?rlkey=ocu27qljd4shfbj6mc5z1fic2&st=4wmth7d2&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1328,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-27",
+        "titulo": "Ep. 27 - Banquete en la grieta",
+        "url": "https://www.dropbox.com/scl/fi/nwi4pmvmqhlz8qb159qqq/full-metal-alchemist-brotherhood-capitulo-27.mp4?rlkey=okxiipqlqm3zulnj22co2gwmj&st=dmscyotw&raw=1",
+        "introInicio": 31,
+        "introFin": 122,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-28",
+        "titulo": "Ep. 28 - Padre",
+        "url": "https://www.dropbox.com/scl/fi/8zva2secsoucq9u35p35m/full-metal-alchemist-brotherhood-capitulo-28.mp4?rlkey=s8g677g5zuke6azo88gvsb8jd&st=vtwmg3sn&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1328,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-29",
+        "titulo": "Ep. 29 - La lucha del tonto",
+        "url": "https://www.dropbox.com/scl/fi/tdu4ecn1i0yv4m1bjf2p0/full-metal-alchemist-brotherhood-capitulo-29.mp4?rlkey=8fmv0aywsigztoffpzf10j861&st=v4x2nl0k&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1328,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-30",
+        "titulo": "Ep. 30 - La campaña de aniquilación de Ishbal",
+        "url": "https://www.dropbox.com/scl/fi/jfw59wu9fbfrdgz5gtbna/full-metal-alchemist-brotherhood-capitulo-30.mp4?rlkey=664a1kanoxnsez7q2w2dg5qcb&st=8p4rh4ai&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1328,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-31",
+        "titulo": "Ep. 31 - La promesa hecha por 520 Cenz",
+        "url": "https://www.dropbox.com/scl/fi/2f60v0xyspiyf7qnb9ral/full-metal-alchemist-brotherhood-capitulo-31.mp4?rlkey=4iwbr3plwhs11o4z35yex98m8&st=rxsfck74&raw=1",
+        "introInicio": 15,
+        "introFin": 104,
+        "endingInicio": 1328,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-32",
+        "titulo": "Ep. 32 - El hijo del Führer",
+        "url": "https://www.dropbox.com/scl/fi/x3wfhx4lwzeqo7p3utbqo/full-metal-alchemist-brotherhood-capitulo-32.mp4?rlkey=1t6rd92e5hte7jyerqqtfvsxi&st=79yhuodf&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1328,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-33",
+        "titulo": "Ep. 33 - La muralla del norte de Briggs",
+        "url": "https://www.dropbox.com/scl/fi/41fv2srbjxhc92h37b1i9/full-metal-alchemist-brotherhood-capitulo-33.mp4?rlkey=qp0pb08smu0p8kfjuarcwhwel&st=5525m09v&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1305,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-34",
+        "titulo": "Ep. 34 - La Reina de Hielo",
+        "url": "https://www.dropbox.com/scl/fi/hvugej389bx5ijuhkmp84/full-metal-alchemist-brotherhood-capitulo-34.mp4?rlkey=6k13m6uu7ad25j45rzvs30f4j&st=eszbpxnz&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-35",
+        "titulo": "Ep. 35 - La forma de este país",
+        "url": "https://www.dropbox.com/scl/fi/r7i4vbygjzfobz6j9g666/full-metal-alchemist-brotherhood-capitulo-35.mp4?rlkey=1b365h19739ajrzxtkdddg76g&st=0taabdp4&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-36",
+        "titulo": "Ep. 36 - Retrato de familia",
+        "url": "https://www.dropbox.com/scl/fi/0qn6vzdg1pgjyuseg23em/full-metal-alchemist-brotherhood-capitulo-36.mp4?rlkey=2g2c39hw17ehft6ur2lvhidml&st=fz9tvn0s&raw=1",
+        "introInicio": 335,
+        "introFin": 424,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-37",
+        "titulo": "Ep. 37 - El homúnculo original",
+        "url": "https://www.dropbox.com/scl/fi/1oe5z2p8t63jpwwh5i9vf/full-metal-alchemist-brotherhood-capitulo-37.mp4?rlkey=ldoiffliyvx7tvg8z9jerbz5z&st=1niycsm9&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-38",
+        "titulo": "Ep. 38 - Conflicto en Baschool",
+        "url": "https://www.dropbox.com/scl/fi/bu0c4vofvc5wuuuv4nn3i/full-metal-alchemist-brotherhood-capitulo-38.mp4?rlkey=430ckduayuf2ftsfpqja4x1hc&st=tspog0gc&raw=1",
+        "introInicio": 107,
+        "introFin": 196,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-39",
+        "titulo": "Ep. 39 - Soñar despierto",
+        "url": "https://www.dropbox.com/scl/fi/uqyirrc1ez84whwtxx1ck/full-metal-alchemist-brotherhood-capitulo-39.mp4?rlkey=au5gs3iiwnd195xkgor0kkzpc&st=whbe7r9q&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-40",
+        "titulo": "Ep. 40 - La criatura dentro del frasco",
+        "url": "https://www.dropbox.com/scl/fi/jzia9q8hfmp6su44b3hel/full-metal-alchemist-brotherhood-capitulo-40.mp4?rlkey=s0ccpvmy0yvwfo50g8uqf09t3&st=9i81br4b&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-41",
+        "titulo": "Ep. 41 - Infierno",
+        "url": "https://www.dropbox.com/scl/fi/b4verkavc1qx4hv0h6crr/full-metal-alchemist-brotherhood-capitulo-41.mp4?rlkey=1n5hjjixnvy3jg3x678ypoya0&st=61kpph7x&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-42",
+        "titulo": "Ep. 42 - Señales de un contraataque",
+        "url": "https://www.dropbox.com/scl/fi/cw9npi29kn1wtq2hy2cdr/full-metal-alchemist-brotherhood-capitulo-42.mp4?rlkey=pzi6zmlueejyfo29z2wkgqrtm&st=gjyq5o28&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-43",
+        "titulo": "Ep. 43 - La mordedura de una hormiga",
+        "url": "https://www.dropbox.com/scl/fi/dierc2j01isl4jkdmo23q/full-metal-alchemist-brotherhood-capitulo-43.mp4?rlkey=zy0nmwtgbcuje8dkaa074n4er&st=djam5yde&raw=1",
+        "introInicio": 57,
+        "introFin": 146,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-44",
+        "titulo": "Ep. 44 - Una recuperación completa",
+        "url": "https://www.dropbox.com/scl/fi/169y1owa0e3tmwx3wjv1m/full-metal-alchemist-brotherhood-capitulo-44.mp4?rlkey=t8mm4vfs9unwj1672nbc7829i&st=74v13jnt&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-45",
+        "titulo": "Ep. 45 - El día prometido",
+        "url": "https://www.dropbox.com/scl/fi/ne59rqljllyv14467n35i/full-metal-alchemist-brotherhood-capitulo-45.mp4?rlkey=aqc3nq13qebn2onkxmhda9ci3&st=3bx0odqz&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-46",
+        "titulo": "Ep. 46 - La sombra cautelosa",
+        "url": "https://www.dropbox.com/scl/fi/t5a5u3s5f3v1qfq1h4mw4/full-metal-alchemist-brotherhood-capitulo-46.mp4?rlkey=7u9h2uyui5c3l57s2o1gikxt4&st=sqt9mrmx&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-47",
+        "titulo": "Ep. 47 - Mensajero de la oscuridad",
+        "url": "https://www.dropbox.com/scl/fi/l9egl4ufw129dsp87lv08/full-metal-alchemist-brotherhood-capitulo-47.mp4?rlkey=gfqgcsxkix6am18cnq4go18oy&st=x3td3kg6&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-48",
+        "titulo": "Ep. 48 - Un juramento hecho bajo tierra",
+        "url": "https://www.dropbox.com/scl/fi/aaimxbqvyws44phdbfznl/full-metal-alchemist-brotherhood-capitulo-48.mp4?rlkey=vv80r2i508auhoj6n78dvq4x5&st=xvqrkdig&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-49",
+        "titulo": "Ep. 49 - El amor de un padre y un hijo",
+        "url": "https://www.dropbox.com/scl/fi/kp5v33o71b7uhpfg6ieie/full-metal-alchemist-brotherhood-capitulo-49.mp4?rlkey=hlippfojw3109bpoh4qrxzh3p&st=vsbswjyj&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-50",
+        "titulo": "Ep. 50 - Agitación en Central",
+        "url": "https://www.dropbox.com/scl/fi/s99fpjhc2ohnqle0whsfh/full-metal-alchemist-brotherhood-capitulo-50.mp4?rlkey=d91nk9igq4vfmsexe3doh2ap3&st=s87vlt1o&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-51",
+        "titulo": "Ep. 51 - Ejército inmortal",
+        "url": "https://www.dropbox.com/scl/fi/cakpoofuaqtlg3zdae175/full-metal-alchemist-brotherhood-capitulo-51.mp4?rlkey=tqzaa5ac54kgap2wsdf541bf1&st=e9f9rax0&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-52",
+        "titulo": "Ep. 52 - El poder de todos",
+        "url": "https://www.dropbox.com/scl/fi/qnas08tmirxzkmgktx9vy/full-metal-alchemist-brotherhood-capitulo-52.mp4?rlkey=h1fl59nw360yr0ejj78q748pu&st=adhlotck&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-53",
+        "titulo": "Ep. 53 - Las llamas de la venganza",
+        "url": "https://www.dropbox.com/scl/fi/aliyeorfhvtnr9t9juqs9/full-metal-alchemist-brotherhood-capitulo-53.mp4?rlkey=7gtl44rzg6nct9r3jyj1fb0iw&st=reylhe3e&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-54",
+        "titulo": "Ep. 54 - Detrás de las llamas",
+        "url": "https://www.dropbox.com/scl/fi/fv7u4bk24bze4tm1a18tw/full-metal-alchemist-brotherhood-capitulo-54.mp4?rlkey=a5mp4sff9ty6vmqawx2twb7sb&st=7t0n3ljm&raw=1",
+        "introInicio": 146,
+        "introFin": 235,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-55",
+        "titulo": "Ep. 55 - La manera de vivir de los adultos",
+        "url": "https://www.dropbox.com/scl/fi/6v9lu18h22lm8pobsz682/full-metal-alchemist-brotherhood-capitulo-55.mp4?rlkey=qukt5rv8ve1jb5e7fexu72l70&st=8uncf0if&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-56",
+        "titulo": "Ep. 56 - El regreso del Führer",
+        "url": "https://www.dropbox.com/scl/fi/wy4otffz2fkqviqpskto5/full-metal-alchemist-brotherhood-capitulo-56.mp4?rlkey=0c3svqdj1h3aygmcz9rouy1jn&st=o907yj1k&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-57",
+        "titulo": "Ep. 57 - Descanso Eterno",
+        "url": "https://www.dropbox.com/scl/fi/kpyymod3amh66hqmoednt/full-metal-alchemist-brotherhood-capitulo-57.mp4?rlkey=i2xftmmnyzdthiy83d2rchj7z&st=9hmdqj8e&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-58",
+        "titulo": "Ep. 58 - Sacrificios humanos",
+        "url": "https://www.dropbox.com/scl/fi/cmyitxqfx71vkj8l20k7i/full-metal-alchemist-brotherhood-capitulo-58.mp4?rlkey=1o1qzwlkin02dfwvhvj8xxl4c&st=owrzmixh&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-59",
+        "titulo": "Ep. 59 - Luz perdida",
+        "url": "https://www.dropbox.com/scl/fi/2wjpaqhns6hpvz10eml41/full-metal-alchemist-brotherhood-capitulo-59.mp4?rlkey=88wyvpvnh81d4q0zml3mlxygq&st=9li5dkwa&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-60",
+        "titulo": "Ep. 60 - El ojo del cielo, la puerta de la Tierra",
+        "url": "https://www.dropbox.com/scl/fi/q35bjr12lzf611i64b3k8/full-metal-alchemist-brotherhood-capitulo-60.mp4?rlkey=hq8i86wxdpoos8j4x6xxqo0lw&st=w7edo8vy&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-61",
+        "titulo": "Ep. 61 - Aquel que se tragó a Dios",
+        "url": "https://www.dropbox.com/scl/fi/kjbnirrrrvsctcs4f68gf/full-metal-alchemist-brotherhood-capitulo-61.mp4?rlkey=sz8r4dnpwg8v70i9f7ss8yiq1&st=wc1kmzo6&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-62",
+        "titulo": "Ep. 62 - Contraataque violento",
+        "url": "https://www.dropbox.com/scl/fi/p8hiaxxhffdjolgiuu1ij/full-metal-alchemist-brotherhood-capitulo-62.mp4?rlkey=c41gk7b1d0ata4483if9bcg0q&st=3rqttwyv&raw=1",
+        "introInicio": 0,
+        "introFin": 89,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-63",
+        "titulo": "Ep. 63 - El otro lado de la puerta",
+        "url": "https://www.dropbox.com/scl/fi/dbzpgidh1zdxhrw9duq4d/full-metal-alchemist-brotherhood-capitulo-63.mp4?rlkey=glyd1kucaf7d69ypqrc72n441&st=kgykoq8h&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      },
+      {
+        "idVideo": "fma-64",
+        "titulo": "Ep. 64 - El final del viaje",
+        "url": "https://www.dropbox.com/scl/fi/zw0kbyqcd9e8lgu6k410w/full-metal-alchemist-brotherhood-capitulo-64.mp4?rlkey=td14d1evzb199dcmnktnv3kb4&st=c141b5nl&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 1349,
+        "endingFin": 1438,
+        "temporada": 1
+      }
+    ]
+  },
+  {
+    "idSerie": "serie-02",
+    "nombreSerie": "Love lab",
+    "portada": "./assets/love-lab.jpg",
+    "episodios": [
+      {
+        "idVideo": "llab-01",
+        "titulo": "Ep. 1 - Su fatídico encuentro",
+        "url": "https://www.dropbox.com/scl/fi/9r4f0ezer11jkr2r64e8y/love-lab-capitulo-1.mp4?rlkey=onymillo7e2hmzsnb50r40cty&st=zprlx3ee&raw=1",
+        "introInicio": 151,
+        "introFin": 241,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-02",
+        "titulo": "Ep. 2 - ¿El cool, el tímido y el voyeur?",
+        "url": "https://www.dropbox.com/scl/fi/rdnvs49ho0fzktwns6xho/love-lab-capitulo-2.mp4?rlkey=lds71zdp9t8z4ikmdxxt33t6z&st=52f7n694&raw=1",
+        "introInicio": 76,
+        "introFin": 166,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-03",
+        "titulo": "Ep. 3 - Sayo y Eno los agresores",
+        "url": "https://www.dropbox.com/scl/fi/2rkuyxm95y4xrznek2a3s/love-lab-capitulo-3.mp4?rlkey=9gv49762gdi495ump6l5bs41r&st=k34z4ey5&raw=1",
+        "introInicio": 90,
+        "introFin": 180,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-04",
+        "titulo": "Ep. 4 - ¡Se reanuda la investigación de Love Lab! o eso pensamos...",
+        "url": "https://www.dropbox.com/scl/fi/rn81d37xlzf3hg7ovxtuq/love-lab-capitulo-4.mp4?rlkey=vasti6wr4r8kq129jnmnkbdtp&st=xqygvu1l&raw=1",
+        "introInicio": 39,
+        "introFin": 129,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-05",
+        "titulo": "Ep. 5 - Esta es la estación del amor de las chicas Fuji",
+        "url": "https://www.dropbox.com/scl/fi/p8f9s8hckilmadp3uhubg/love-lab-capitulo-5.mp4?rlkey=mzk3arnqdb99xhtydfvrruhsf&st=ynjmt0si&raw=1",
+        "introInicio": 21,
+        "introFin": 111,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-06",
+        "titulo": "Ep. 6 - Leyenda de la peor chica, Riko",
+        "url": "https://www.dropbox.com/scl/fi/o52eq1x64tfxo4qkm02o8/love-lab-capitulo-6.mp4?rlkey=z0gne5d340t4rriziudi4kmvk&st=0mem97hq&raw=1",
+        "introInicio": 111,
+        "introFin": 201,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-07",
+        "titulo": "Ep. 7 - ¡A la residencia Kurahashi!",
+        "url": "https://www.dropbox.com/scl/fi/n4h505l7p3xjirxppi5sn/love-lab-capitulo-7.mp4?rlkey=ilum4ljsxzop0ps9c52im4cy7&st=kpgjs4f4&raw=1",
+        "introInicio": 62,
+        "introFin": 152,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-08",
+        "titulo": "Ep. 8 - La salvaje...",
+        "url": "https://www.dropbox.com/scl/fi/ezcyhlzam2iuyqz6gjiha/love-lab-capitulo-8.mp4?rlkey=bhxdttlmh3xre8nf91liiy16x&st=hwqw0sz3&raw=1",
+        "introInicio": 81,
+        "introFin": 171,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-09",
+        "titulo": "Ep. 9 - Esa sonrisa...",
+        "url": "https://www.dropbox.com/scl/fi/ibzs6skoye1ki48rig65q/love-lab-capitulo-9.mp4?rlkey=j1ti8yo70bqdffzrr92g1azy1&st=uhmarvnc&raw=1",
+        "introInicio": 63,
+        "introFin": 153,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-10",
+        "titulo": "Ep. 10 - Lo mejor del Consejo Estudiantil",
+        "url": "https://www.dropbox.com/scl/fi/4bdip6mlwmkinw8u9ufd9/love-lab-capitulo-10.mp4?rlkey=qdoxgpt9qx170csbam0ix1eeb&st=2vyq3g6n&raw=1",
+        "introInicio": 80,
+        "introFin": 170,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-11",
+        "titulo": "Ep. 11 - ¿Laboratorio del amor?",
+        "url": "https://www.dropbox.com/scl/fi/8nhq6o4fcxo2suyo6np40/love-lab-capitulo-11.mp4?rlkey=zf1nek8z293o3bz6ub80houei&st=9yalhfa7&raw=1",
+        "introInicio": 29,
+        "introFin": 119,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-12",
+        "titulo": "Ep. 12 - Por favor sé mi amigo para siempre",
+        "url": "https://www.dropbox.com/scl/fi/09heemj3dkjimyywa1628/love-lab-capitulo-12.mp4?rlkey=b1o42d838irw19jfnqki2tvwg&st=7lv6qmll&raw=1",
+        "introInicio": 120,
+        "introFin": 210,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "llab-13",
+        "titulo": "Ep. 13 - Sosteniendo esa mano",
+        "url": "https://www.dropbox.com/scl/fi/696la02hkj7zl99kkz09u/love-lab-capitulo-13.mp4?rlkey=x0j4eu11vh1p5x6nh0kgi61zu&st=s6vs60bo&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      }
+    ]
+  },
+  {
+    "idSerie": "serie-03",
+    "nombreSerie": "Hatsukoi limited",
+    "portada": "./assets/hatsukoi-limited.jpg",
+    "episodios": [
+      {
+        "idVideo": "hatsl-01",
+        "titulo": "Ep. 1 - Bella A y la bestia Z",
+        "url": "https://www.dropbox.com/scl/fi/91mbacqrzaknu241ghitw/hatsukoi-limited-capitulo-1.mp4?rlkey=piwlua7q2wyc88pxmo58kwjc6&st=gutcod3h&raw=1",
+        "introInicio": 0,
+        "introFin": 113,
+        "endingInicio": 1345,
+        "endingFin": 1435,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-02",
+        "titulo": "Ep. 2 - Yamamoto, mi vecina",
+        "url": "https://www.dropbox.com/scl/fi/7tlmfyeta3nkzpqpfcxq5/hatsukoi-limited-capitulo-2.mp4?rlkey=2eexzikmdqttqhapiyha46s8i&st=2v12mpb6&raw=1",
+        "introInicio": 0,
+        "introFin": 113,
+        "endingInicio": 1345,
+        "endingFin": 1435,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-03",
+        "titulo": "Ep. 3 - Tambaleo desbalanceado",
+        "url": "https://www.dropbox.com/scl/fi/29ldvjdny3grf2r7owl9q/hatsukoi-limited-capitulo-3.mp4?rlkey=k4itjjgkdw4b50oolxp5306in&st=ack37vg6&raw=1",
+        "introInicio": 0,
+        "introFin": 113,
+        "endingInicio": 1345,
+        "endingFin": 1435,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-04",
+        "titulo": "Ep. 4 - La persona que más amo",
+        "url": "https://www.dropbox.com/scl/fi/y0b1lnwgbwckctmldj1cg/hatsukoi-limited-capitulo-4.mp4?rlkey=t2dngvizwtj2s9z2ugw7ym17i&st=tfqo5h9u&raw=1",
+        "introInicio": 0,
+        "introFin": 113,
+        "endingInicio": 1345,
+        "endingFin": 1435,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-05",
+        "titulo": "Ep. 5 - Clavado confundido",
+        "url": "https://www.dropbox.com/scl/fi/95mt9cnzhs7f493b3do18/hatsukoi-limited-capitulo-5.mp4?rlkey=wc40rexwh3z2mczpde8l7tkj5&st=nyq7vkk0&raw=1",
+        "introInicio": 0,
+        "introFin": 113,
+        "endingInicio": 1345,
+        "endingFin": 1435,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-06",
+        "titulo": "Ep. 6 - Antes de que nieve",
+        "url": "https://www.dropbox.com/scl/fi/48bjnofhmu2sw48z5iobt/hatsukoi-limited-capitulo-6.mp4?rlkey=82i3upgg45m3hvmhwgb6v22p8&st=qhrjy3cj&raw=1",
+        "introInicio": 96,
+        "introFin": 186,
+        "endingInicio": 1345,
+        "endingFin": 1435,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-07",
+        "titulo": "Ep. 7 - Besémonos",
+        "url": "https://www.dropbox.com/scl/fi/74otvvllhnhewqjjcou31/hatsukoi-limited-capitulo-7.mp4?rlkey=0567b10f9roox1t9py1eak2iz&st=ojq92006&raw=1",
+        "introInicio": 203,
+        "introFin": 293,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-08",
+        "titulo": "Ep. 8 - La melancolía del bombardero de chocolate",
+        "url": "https://www.dropbox.com/scl/fi/wkmwbt7tlhhoqbe37yk95/hatsukoi-limited-capitulo-8.mp4?rlkey=l4vt0awl0atvzoyintb52cb7k&st=ipae1z0p&raw=1",
+        "introInicio": 190,
+        "introFin": 280,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-09",
+        "titulo": "Ep. 9 - Esos sentimientos están floreciendo",
+        "url": "https://www.dropbox.com/scl/fi/ckfnzhbrys20uho0mi9te/hatsukoi-limited-capitulo-9.mp4?rlkey=n0eylspe7bywx46ohk1zr1tt4&st=g90ana5z&raw=1",
+        "introInicio": 152,
+        "introFin": 242,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-10",
+        "titulo": "Ep. 10 - ¡Pelea Kappa!",
+        "url": "https://www.dropbox.com/scl/fi/pyx93rkgmvqtsn4tac7kz/hatsukoi-limited-capitulo-10.mp4?rlkey=y5w5lngxbersya2t8axagaksp&st=k2agyhm9&raw=1",
+        "introInicio": 172,
+        "introFin": 262,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-11",
+        "titulo": "Ep. 11 - El escape de los chicos",
+        "url": "https://www.dropbox.com/scl/fi/b52c5qdzz38udukgkqj6s/hatsukoi-limited-capitulo-11.mp4?rlkey=nso1523mdhmdk139adotgmx46&st=akcf807s&raw=1",
+        "introInicio": 195,
+        "introFin": 285,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-12",
+        "titulo": "Ep. 12 - Primer amor limitado",
+        "url": "https://www.dropbox.com/scl/fi/a8p88jp29ni64ecxeo9x3/hatsukoi-limited-capitulo-12.mp4?rlkey=exzwfasca25w1v1mebokpiihq&st=ihrxbhma&raw=1",
+        "introInicio": 90,
+        "introFin": 180,
+        "endingInicio": 1347,
+        "endingFin": 1437,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-13",
+        "titulo": "Ova 1",
+        "url": "https://www.dropbox.com/scl/fi/s8i043mza71qq0mezzro9/hatsukoi-limited-ova-1.mp4?rlkey=d1qr31m1339qa7lf6qqnvyxs6&st=rwot5koo&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 214,
+        "endingFin": 250,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-14",
+        "titulo": "Ova 2",
+        "url": "https://www.dropbox.com/scl/fi/n7nbzp2ae1dy4fu58ajwl/hatsukoi-limited-ova-2.mp4?rlkey=tbuekp0r9jjp6wisu93su8o3c&st=c71f9vk5&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 250,
+        "endingFin": 306,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-15",
+        "titulo": "Ova 3",
+        "url": "https://www.dropbox.com/scl/fi/20r0q3bmzn2ndzvrc5ol0/hatsukoi-limited-ova-3.mp4?rlkey=o3o4342tsao632hwn303o9aak&st=mxh2x831&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 196,
+        "endingFin": 233,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-16",
+        "titulo": "Ova 4",
+        "url": "https://www.dropbox.com/scl/fi/o5zl6tci8z4me6uvt6d22/hatsukoi-limited-ova-4.mp4?rlkey=2hrvyjpk63ioc6k6b1505cexm&st=q3pbwiu1&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 203,
+        "endingFin": 239,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-17",
+        "titulo": "Ova 5",
+        "url": "https://www.dropbox.com/scl/fi/zulcf9nri1m1ctn939lyi/hatsukoi-limited-ova-5.mp4?rlkey=f5kw576b761tenq3va8d96w4t&st=wsb5ipvu&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 231,
+        "endingFin": 268,
+        "temporada": 1
+      },
+      {
+        "idVideo": "hatsl-18",
+        "titulo": "Ova 6",
+        "url": "https://www.dropbox.com/scl/fi/ulrcwhb820a1v6o1vdm12/hatsukoi-limited-ova-6.mp4?rlkey=clu63tbfxci9j9drjy5eh25cs&st=7rkr1qkw&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 252,
+        "endingFin": 291,
+        "temporada": 1
+      }
+    ]
+  },
+  {
+    "idSerie": "serie-04",
+    "nombreSerie": "Gekkan Shoujo Nozaki-kun",
+    "portada": "./assets/gekkan-shoujo-nozaki-kun.jpg",
+    "episodios": [
+      {
+        "idVideo": "gsnk-01",
+        "titulo": "Ep. 1 - Este amor se está convirtiendo en una manga Shojo",
+        "url": "https://www.dropbox.com/scl/fi/xrsd2gzguceirb55bk98c/gekkan-shoujo-nozaki-kun-capitulo-1.mp4?rlkey=gt85j7gr9qp0tzmuk83pxd3fk&st=xdlcjzrv&raw=1",
+        "introInicio": 138,
+        "introFin": 228,
+        "endingInicio": 1280,
+        "endingFin": 1370,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-02",
+        "titulo": "Ep. 2 - Encantado de conocer a un nuevo protagonista",
+        "url": "https://www.dropbox.com/scl/fi/jjipavrpcu4cnon8vuf4a/gekkan-shoujo-nozaki-kun-capitulo-2.mp4?rlkey=z0x8x7u73z5bp08nqilfdaav7&st=gql2v82b&raw=1",
+        "introInicio": 93,
+        "introFin": 183,
+        "endingInicio": 1236,
+        "endingFin": 1326,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-03",
+        "titulo": "Ep. 3 - Tercera edición: Violencia contra el Príncipe",
+        "url": "https://www.dropbox.com/scl/fi/w178zfruzbzf3h5rwu6eg/gekkan-shoujo-nozaki-kun-capitulo-3.mp4?rlkey=ml9ot9hdvq0r8bx8e5gsqgtv2&st=ec7fqie2&raw=1",
+        "introInicio": 87,
+        "introFin": 177,
+        "endingInicio": 1240,
+        "endingFin": 1330,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-04",
+        "titulo": "Ep. 4 - Hay ocasiones en que los hombres deben pelear",
+        "url": "https://www.dropbox.com/scl/fi/veaz8p6mbllw2n09c12r0/gekkan-shoujo-nozaki-kun-capitulo-4.mp4?rlkey=88t48xalzsmxdjc2ujln2gk21&st=r9sn0r2a&raw=1",
+        "introInicio": 73,
+        "introFin": 163,
+        "endingInicio": 1276,
+        "endingFin": 1366,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-05",
+        "titulo": "Ep. 5 - El hombre que dibuja el amor",
+        "url": "https://www.dropbox.com/scl/fi/4bv8mvdlhjjnoyjwx7ccx/gekkan-shoujo-nozaki-kun-capitulo-5.mp4?rlkey=2ghr2j4t0xw48t4byr5ec95ga&st=nw8toqxu&raw=1",
+        "introInicio": 90,
+        "introFin": 180,
+        "endingInicio": 1302,
+        "endingFin": 1392,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-06",
+        "titulo": "Ep. 6 - Te hechicé",
+        "url": "https://www.dropbox.com/scl/fi/138uyclgw2wdmy2lclf2c/gekkan-shoujo-nozaki-kun-capitulo-6.mp4?rlkey=gi95vaxvqq9ua7gikh4ii76x8&st=4irb45uy&raw=1",
+        "introInicio": 89,
+        "introFin": 179,
+        "endingInicio": 1280,
+        "endingFin": 1370,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-07",
+        "titulo": "Ep. 7 - Nozaki-kun, el cerebro de un mangaka",
+        "url": "https://www.dropbox.com/scl/fi/oij910gmq1k0j0igos4zy/gekkan-shoujo-nozaki-kun-capitulo-7.mp4?rlkey=u3dt1frgs6xwniae2e5hlcmxo&st=4wv3nbvj&raw=1",
+        "introInicio": 68,
+        "introFin": 158,
+        "endingInicio": 1313,
+        "endingFin": 1403,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-08",
+        "titulo": "Ep. 8 - El príncipe (chica) de los problemas escolares",
+        "url": "https://www.dropbox.com/scl/fi/vnh2r18kr5jvva94jusdt/gekkan-shoujo-nozaki-kun-capitulo-8.mp4?rlkey=41gb376ffai06mf43ivvpimp1&st=qodbdyae&raw=1",
+        "introInicio": 41,
+        "introFin": 131,
+        "endingInicio": 1275,
+        "endingFin": 1365,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-09",
+        "titulo": "Ep. 9 - ¿Tienes suficiente emoción?",
+        "url": "https://www.dropbox.com/scl/fi/tqx6gny1k54ukbjhw5cmd/gekkan-shoujo-nozaki-kun-capitulo-9.mp4?rlkey=7gzpm0puwq7rw6rm7khwu2mck&st=2tdtynsx&raw=1",
+        "introInicio": 45,
+        "introFin": 135,
+        "endingInicio": 1230,
+        "endingFin": 1320,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-10",
+        "titulo": "Ep. 10 - Lo que se fortalece es nuestro vínculo y nuestras riendas",
+        "url": "https://www.dropbox.com/scl/fi/opvs0jut8hg935svp0q4a/gekkan-shoujo-nozaki-kun-capitulo-10.mp4?rlkey=qjzlae503yx4q9m3g2j2l45fm&st=rthgj9mm&raw=1",
+        "introInicio": 48,
+        "introFin": 138,
+        "endingInicio": 1283,
+        "endingFin": 1373,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-11",
+        "titulo": "Ep. 11 - Enamorémonos del arroz",
+        "url": "https://www.dropbox.com/scl/fi/otjign0cbbbfyjdrq6d6a/gekkan-shoujo-nozaki-kun-capitulo-11.mp4?rlkey=jtjnu59x5kjvylp5e07epyv53&st=64vtde9r&raw=1",
+        "introInicio": 201,
+        "introFin": 291,
+        "endingInicio": 1287,
+        "endingFin": 1377,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-12",
+        "titulo": "Ep. 12 - Si estos sentimientos no son amor, entonces no hay amor en el mundo",
+        "url": "https://www.dropbox.com/scl/fi/eryf4t9ki3cn0p8zqst68/gekkan-shoujo-nozaki-kun-capitulo-12.mp4?rlkey=gewk3cke1dsfp1vxm9l012i7o&st=lh4wlppu&raw=1",
+        "introInicio": 49,
+        "introFin": 139,
+        "endingInicio": 1423,
+        "endingFin": 1423,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-13",
+        "titulo": "Especial 1",
+        "url": "https://www.dropbox.com/scl/fi/j496gprka8yukvcso98ar/gekkan-shoujo-nozaki-kun-especial-1.mp4?rlkey=wi7r9xe8ewg07gwx6lksa4nvf&st=j6m897ct&raw=1",
+        "introInicio": 0,
+        "introFin": 18,
+        "endingInicio": 170,
+        "endingFin": 184,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-14",
+        "titulo": "Especial 2",
+        "url": "https://www.dropbox.com/scl/fi/2fcahhvzqpka5d77rqf2j/gekkan-shoujo-nozaki-kun-especial-2.mp4?rlkey=d1sggbfc6ydjgarjvqc7olny2&st=ktfv4518&raw=1",
+        "introInicio": 0,
+        "introFin": 18,
+        "endingInicio": 173,
+        "endingFin": 188,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-15",
+        "titulo": "Especial 3",
+        "url": "https://www.dropbox.com/scl/fi/2fcahhvzqpka5d77rqf2j/gekkan-shoujo-nozaki-kun-especial-2.mp4?rlkey=d1sggbfc6ydjgarjvqc7olny2&st=ktfv4518&raw=1",
+        "introInicio": 0,
+        "introFin": 18,
+        "endingInicio": 184,
+        "endingFin": 199,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-16",
+        "titulo": "Especial 4",
+        "url": "https://www.dropbox.com/scl/fi/sk3gxc5ecgzzsz04ci2p3/gekkan-shoujo-nozaki-kun-especial-4.mp4?rlkey=jcm4kyj8kikbyrz16pv86e2t1&st=kk0n2tr6&raw=1",
+        "introInicio": 0,
+        "introFin": 18,
+        "endingInicio": 207,
+        "endingFin": 222,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-17",
+        "titulo": "Especial 5",
+        "url": "https://www.dropbox.com/scl/fi/zmcds9owa1w2wsvwnhyqc/gekkan-shoujo-nozaki-kun-especial-5.mp4?rlkey=t1aqzlr77mt4x4dmqd72e22w5&st=g0zygeg2&raw=1",
+        "introInicio": 0,
+        "introFin": 18,
+        "endingInicio": 166,
+        "endingFin": 181,
+        "temporada": 1
+      },
+      {
+        "idVideo": "gsnk-18",
+        "titulo": "Especial 6",
+        "url": "https://www.dropbox.com/scl/fi/13d2z413dfnzchwzgfewa/gekkan-shoujo-nozaki-kun-especial-6.mp4?rlkey=znums2klhe8s6g77ym69orogg&st=vwrgqdyw&raw=1",
+        "introInicio": 0,
+        "introFin": 18,
+        "endingInicio": 167,
+        "endingFin": 182,
+        "temporada": 1
+      }
+    ]
+  },
+  {
+    "idSerie": "serie-05",
+    "nombreSerie": "Amagi brilliant park",
+    "portada": "./assets/amagi-brilliant-park.jpg",
+    "episodios": [
+      {
+        "idVideo": "abp-01",
+        "titulo": "Ep. 1 - ¡No hay suficientes visitantes!",
+        "url": "https://www.dropbox.com/scl/fi/ldzjp3udytyhhofqh6eg2/amagi-brilliant-park-capitulo-1.mp4?rlkey=c6ttffmy2rrzx7s92bd6s6sgf&st=hy3p60py&raw=1",
+        "introInicio": 46,
+        "introFin": 136,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-02",
+        "titulo": "Ep. 2 - ¡No hay suficiente tiempo!",
+        "url": "https://www.dropbox.com/scl/fi/ce4m2rjn2pk4rtmmqc35a/amagi-brilliant-park-capitulo-2.mp4?rlkey=2plv2i5uf86iswv7ojb3rya9l&st=lnhzdg9d&raw=1",
+        "introInicio": 58,
+        "introFin": 148,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-03",
+        "titulo": "Ep. 3 - ¡No hay suficientes refuerzos!",
+        "url": "https://www.dropbox.com/scl/fi/puz94pj4mqppaxzfj0ugj/amagi-brilliant-park-capitulo-3.mp4?rlkey=h4wpqwg5bn049egapbz3338m3&st=4bqoxggh&raw=1",
+        "introInicio": 15,
+        "introFin": 105,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-04",
+        "titulo": "Ep. 4 - ¡No hay suficiente productividad!",
+        "url": "https://www.dropbox.com/scl/fi/wrpv1ftjhsdf5xn8n46ly/amagi-brilliant-park-capitulo-4.mp4?rlkey=c38gbfl3hx4hky1mz8aoxzjms&st=dh9gx1du&raw=1",
+        "introInicio": 44,
+        "introFin": 134,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-05",
+        "titulo": "Ep. 5 - ¡No hay suficiente dinero!",
+        "url": "https://www.dropbox.com/scl/fi/86yryxv8831y1s7ps8gmu/amagi-brilliant-park-capitulo-5.mp4?rlkey=iokof8z09shh7gm7qnz26pz8p&st=8od3srta&raw=1",
+        "introInicio": 104,
+        "introFin": 194,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-06",
+        "titulo": "Ep. 6 - ¡No hay suficiente gente!",
+        "url": "https://www.dropbox.com/scl/fi/ovamkzpmtcbsrpmebizpr/amagi-brilliant-park-capitulo-6.mp4?rlkey=wn0bo98mk1s2jflpvtswb7tvs&st=8c0bcben&raw=1",
+        "introInicio": 67,
+        "introFin": 157,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-07",
+        "titulo": "Ep. 7 - ¡No hay suficiente seguridad en la piscina!",
+        "url": "https://www.dropbox.com/scl/fi/yz1nxfw955leq20tdilub/amagi-brilliant-park-capitulo-7.mp4?rlkey=ta8ycpgsmlfm9sz2wmdyzrawf&st=2v2x6sgz&raw=1",
+        "introInicio": 127,
+        "introFin": 217,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-08",
+        "titulo": "Ep. 8 - ¡No hay suficiente amor!",
+        "url": "https://www.dropbox.com/scl/fi/xfrc8c08dwmlomt5fthoa/amagi-brilliant-park-capitulo-8.mp4?rlkey=4cfk9zfud7e64z2brlfav1gt7&st=ax0k4fhf&raw=1",
+        "introInicio": 28,
+        "introFin": 118,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-09",
+        "titulo": "Ep. 9 - ¡No hay suficiente trabajo en equipo!",
+        "url": "https://www.dropbox.com/scl/fi/qpdm583ykvuve7wlt5ak1/amagi-brilliant-park-capitulo-9.mp4?rlkey=0qkofvd7fv7wau9kdu78ng1ja&st=xv6kzlx1&raw=1",
+        "introInicio": 39,
+        "introFin": 129,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-10",
+        "titulo": "Ep. 10 - ¡Nada puede hacerse!",
+        "url": "https://www.dropbox.com/scl/fi/a9r4fvpb1ayoape27rpig/amagi-brilliant-park-capitulo-10.mp4?rlkey=ia1cowigrn2mchrow2sh7ngvb&st=5tqnrnjd&raw=1",
+        "introInicio": 110,
+        "introFin": 200,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-11",
+        "titulo": "Ep. 11 - ¡No hay nada de que preocuparse ahora!",
+        "url": "https://www.dropbox.com/scl/fi/slwh3w25phm0wtbcket3c/amagi-brilliant-park-capitulo-11.mp4?rlkey=yh5unktghjo78z0czw9lo8vns&st=5pli6o9m&raw=1",
+        "introInicio": 80,
+        "introFin": 170,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-12",
+        "titulo": "Ep. 12 - ¡Nadie sabe que nos aguarda el futuro!",
+        "url": "https://www.dropbox.com/scl/fi/jkot4soeo3xrjj2oy6mw1/amagi-brilliant-park-capitulo-12.mp4?rlkey=pkh20o8uoyh8no8i8um3av316&st=2pvpcr38&raw=1",
+        "introInicio": 42,
+        "introFin": 132,
+        "endingInicio": 1330,
+        "endingFin": 1420,
+        "temporada": 1
+      },
+      {
+        "idVideo": "abp-13",
+        "titulo": "Ep. 13 - ¡No es un buen vídeo promocional!",
+        "url": "https://www.dropbox.com/scl/fi/cdzjj45n5ajgpchdjl77b/amagi-brilliant-park-capitulo-13.mp4?rlkey=jor0mz4ey4xil5rsj2wl1uub9&st=o16ykz68&raw=1",
+        "introInicio": 125,
+        "introFin": 215,
+        "endingInicio": 1334,
+        "endingFin": 1424,
+        "temporada": 1
+      }
+    ]
+  }
+]

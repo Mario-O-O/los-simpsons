@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animy</title>
+  <link href="./assets/icons/favicom.ico" rel="icon" type="image/x-icon" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+
+  <div id="pantalla-inicio">
+    <header class="header-inicio">
+      <img src="./assets/icons/burro.svg" alt="" class="ico-burro">
+      <h1>Series</h1>
+    </header>
+    <div class="grid-series" id="grid-series">
+    </div>
+  </div>
+
+  <div id="pantalla-reproductor" class="video-container oculto">
+    <video id="reproductor"></video>
+
+    <div id="loader" class="loader oculto"></div>
+
+    <div id="indicador-retroceder" class="indicador-salto">
+      <span>- 10s</span>
+    </div>
+
+    <div id="indicador-adelantar" class="indicador-salto">
+      <span>+ 10s</span>
+    </div>
+
+    <div id="info-pausa" class="info-pausa oculto">
+      <h4 id="pausa-serie">Nombre Serie</h4>
+      <h2 id="pausa-capitulo">Nombre Capítulo</h2>
+    </div>
+
+    <button id="btn-volver-inicio" class="btn-interfaz btn-interfaz-home" style="left: 20px;"><img
+        src="./assets/icons/home.svg" alt=""></button>
+    <button id="btn-abrir-lista" class="btn-interfaz" style="left: 80px;">☰ Episodios</button>
+
+    <button id="btn-skip-intro" class="btn-flotante oculto">Omitir Intro</button>
+    <button id="btn-skip-ending" class="btn-flotante oculto">Siguiente Episodio</button>
+
+    <div id="controles-video" class="controles-video">
+      <div class="barra-progreso-contenedor" id="barra-progreso-contenedor">
+        <div class="barra-progreso" id="barra-progreso"></div>
+      </div>
+
+      <div class="controles-botones">
+        <button id="btn-prev-video" class="control-btn control-btn-2" title="Episodio Anterior">⏮</button>
+        <button id="btn-retroceder-10" class="control-btn" title="Retroceder 10s">- 10s</button>
+
+        <button id="btn-play-pause" class="control-btn control-btn-2">▶</button>
+
+        <button id="btn-adelantar-10" class="control-btn" title="Adelantar 10s">+ 10s</button>
+        <button id="btn-next-video" class="control-btn control-btn-2" title="Siguiente Episodio">⏭</button>
+
+        <span id="tiempo-texto">00:00 / 00:00</span>
+        <div style="flex-grow: 1;" class="space-x"></div>
+        <button id="btn-fullscreen" class="control-btn">⛶</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="modal-episodios" class="modal oculto">
+    <div class="modal-contenido">
+      <button id="btn-cerrar-modal" class="btn-cerrar">
+        <div class="equis">
+          <div class="line line-1"></div>
+          <div class="line line-2"></div>
+        </div>
+      </button>
+      <h2>Episodios</h2>
+
+      <select id="select-temporada" class="select-temporada oculto"></select>
+
+      <ul id="lista-videos">
+      </ul>
+    </div>
+  </div>
+
+  <div id="pantalla-transicion" class="pantalla-mensaje oculto">
+    <div class="mensaje-contenido">
+      <h2>Fin</h2>
+      <p>Volviendo al inicio en 3 segundos...</p>
+    </div>
+  </div>
+
+  <script src="./js/app.js"></script>
+</body>
+
+</html>
