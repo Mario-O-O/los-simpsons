@@ -35,6 +35,7 @@ const indicadorRetroceder = document.getElementById('indicador-retroceder');
 const indicadorAdelantar = document.getElementById('indicador-adelantar');
 
 const selectTemporada = document.getElementById('select-temporada');
+const contenedorContinuar = document.getElementById('contenedor-continuar');
 
 let catalogo = [];
 let temporadaActivaIndex = 0;
@@ -72,6 +73,8 @@ function renderizarInicio() {
 
     gridSeries.appendChild(tarjeta);
   });
+
+  revisarContinuarViendo();
 }
 
 btnVolverInicio.addEventListener('click', () => {
@@ -81,6 +84,7 @@ btnVolverInicio.addEventListener('click', () => {
   reproductor.pause();
   pantallaReproductor.classList.add('oculto');
   pantallaInicio.classList.remove('oculto');
+  revisarContinuarViendo();
 });
 
 // --- 4. LÓGICA DEL REPRODUCTOR ---
@@ -91,6 +95,9 @@ function cargarVideo(tIndex, eIndex, iniciarDesdeCero = false) {
 
   pausaSerie.textContent = catalogo[tIndex].nombreTemporada;
   pausaCapitulo.textContent = episodioActual.titulo;
+
+  localStorage.setItem('ultima_temporada_global', tIndex);
+  localStorage.setItem('ultimo_episodio_global', eIndex);
 
   localStorage.setItem(`ep_activo_temp_${tIndex}`, eIndex);
   reproductor.src = episodioActual.url;
@@ -464,6 +471,60 @@ btnFullscreen.addEventListener('click', () => {
     document.exitFullscreen();
   }
 });
+
+// --- NUEVA LÓGICA MEJORADA: CONTINUAR VIENDO ---
+function revisarContinuarViendo() {
+  const ultimaTemp = localStorage.getItem('ultima_temporada_global');
+  const ultimoEp = localStorage.getItem('ultimo_episodio_global');
+
+  if (ultimaTemp !== null && ultimoEp !== null) {
+    const tIndex = parseInt(ultimaTemp);
+    const eIndex = parseInt(ultimoEp);
+
+    if (catalogo[tIndex] && catalogo[tIndex].episodios[eIndex]) {
+      const temporada = catalogo[tIndex];
+      const episodio = temporada.episodios[eIndex];
+
+      // Inyectamos la miniatura y el botón de cerrar (X)
+      contenedorContinuar.innerHTML = `
+        <div class="btn-continuar" id="btn-accion-continuar">
+          <img src="${episodio.imagen}" alt="Miniatura" class="btn-continuar-img" onerror="this.src='https://via.placeholder.com/90x50?text=Img'">
+          
+          <div class="btn-continuar-texto">
+            <span style="font-size: 0.9rem;">Continuar viendo</span>
+            <span class="btn-continuar-sub">${temporada.nombreTemporada} - ${episodio.titulo}</span>
+          </div>
+
+          <div id="btn-quitar-continuar" class="btn-cerrar-continuar" title="Quitar de la lista">✕</div>
+        </div>
+      `;
+      contenedorContinuar.classList.remove('oculto');
+
+      // 1. Evento para abrir el video al hacer clic en cualquier parte de la tarjeta
+      document.getElementById('btn-accion-continuar').addEventListener('click', () => {
+        pantallaInicio.classList.add('oculto');
+        pantallaReproductor.classList.remove('oculto');
+        cargarVideo(tIndex, eIndex);
+        reproductor.play();
+      });
+
+      // 2. Evento EXCLUSIVO para la "X"
+      document.getElementById('btn-quitar-continuar').addEventListener('click', (e) => {
+        e.stopPropagation(); // LA MAGIA: Evita que el clic se pase al botón principal y abra el video
+
+        // Ocultamos la tarjeta visualmente
+        contenedorContinuar.classList.add('oculto');
+
+        // Borramos la memoria en el navegador para que no vuelva a aparecer al recargar
+        localStorage.removeItem('ultima_temporada_global');
+        localStorage.removeItem('ultimo_episodio_global');
+      });
+
+      return;
+    }
+  }
+  contenedorContinuar.classList.add('oculto');
+}
 
 // Arrancar la aplicación
 inicializar();

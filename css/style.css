@@ -231,9 +231,89 @@ body {
 
 .header-inicio {
   display: flex;
-  align-items: center;
-  gap: 10px;
+  align-items: flex-end;
+  /* Empuja el botón a la derecha */
   margin-bottom: 30px;
+  flex-wrap: wrap;
+  /* Por si en celulares la pantalla es muy pequeña */
+  gap: 20px;
+}
+
+/* --- NUEVAS CLASES PARA EL BOTÓN CONTINUAR --- */
+.titulo-logo {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+/* Reemplazamos esta clase para prepararla para la imagen y la "X" */
+.btn-continuar {
+  background-color: #222;
+  /* Fondo oscuro luce más elegante con imágenes */
+  color: white;
+  border: 1px solid #444;
+  padding: 6px 30px 6px 6px;
+  /* Espacio extra a la derecha para la X */
+  border-radius: 17px;
+  font-size: 1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-align: left;
+  transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+  position: relative;
+  /* ¡VITAL! Para que la X se ubique bien en la esquina */
+}
+
+.btn-continuar:hover {
+  border-color: #e50914;
+}
+
+/* --- NUEVAS CLASES PARA LA IMAGEN Y LA EQUIS --- */
+.btn-continuar-img {
+  width: 90px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 11px;
+  background-color: #000;
+  border: 1px solid #333;
+}
+
+.btn-cerrar-continuar {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #aaa;
+  border-radius: 50%;
+  width: 22px;
+  height: 22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-cerrar-continuar:hover {
+  background-color: #e50914;
+  color: white;
+}
+
+.btn-continuar-texto {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.btn-continuar-sub {
+  font-weight: 300;
+  font-size: 0.75rem;
+  color: #fdbfc2;
+  /* Un tono rosado claro para que contraste con el rojo */
 }
 
 .ico-burro {

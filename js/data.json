@@ -410,8 +410,8 @@
         "imagen": "./assets/temporada-3/cap-1.jpg",
         "url": "https://www.dropbox.com/scl/fi/acaiuy7xqkp7fbr3d2f2s/t3-episodio-1.mp4?rlkey=xv9o3qtkefzph47avnyywmxm8&st=8zz35mrj&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 51,
+        "endingInicio": 1308,
         "endingFin": 1411
       },
       {
@@ -421,7 +421,7 @@
         "imagen": "./assets/temporada-3/cap-2.jpg",
         "url": "https://www.dropbox.com/scl/fi/l046ir1k67cjkjpuik347/t3-episodio-2.mp4?rlkey=2tmad5d5dvic2yk6vs0ik78sh&st=k9m5lj8h&raw=1",
         "introInicio": 0,
-        "introFin": 81,
+        "introFin": 51,
         "endingInicio": 1320,
         "endingFin": 1411
       },
@@ -432,8 +432,8 @@
         "imagen": "./assets/temporada-3/cap-3.jpg",
         "url": "https://www.dropbox.com/scl/fi/rvl1brpo7elqjwc9kb11z/t3-episodio-3.mp4?rlkey=ct6htapsamr83mlzt5equosyr&st=1m480ytk&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 79,
+        "endingInicio": 1300,
         "endingFin": 1411
       },
       {
@@ -443,8 +443,8 @@
         "imagen": "./assets/temporada-3/cap-4.jpg",
         "url": "https://www.dropbox.com/scl/fi/o4sxb2prej2k9g0lp0zwd/t3-episodio-4.mp4?rlkey=dq1eczszt8bk26l88cw0j5tku&st=78bzd6az&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 51,
+        "endingInicio": 1305,
         "endingFin": 1411
       },
       {
@@ -454,8 +454,8 @@
         "imagen": "./assets/temporada-3/cap-5.jpg",
         "url": "https://www.dropbox.com/scl/fi/i4iixcifjz9dtj1jkgh9c/t3-episodio-5.mp4?rlkey=9hq835hm82rxkp0cujgt39k5j&st=x5vynls2&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 51,
+        "endingInicio": 1307,
         "endingFin": 1411
       },
       {
@@ -465,8 +465,8 @@
         "imagen": "./assets/temporada-3/cap-6.jpg",
         "url": "https://www.dropbox.com/scl/fi/7ksv48zzt06svnr12s6ei/t3-episodio-6.mp4?rlkey=03zgystunai410iqi5j5slkwc&st=5ag1fef0&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 51,
+        "endingInicio": 1305,
         "endingFin": 1411
       },
       {
@@ -477,7 +477,7 @@
         "url": "https://www.dropbox.com/scl/fi/ic5fant7r8m9ka4y7ks1v/t3-episodio-7.mp4?rlkey=x7gfvq2vx72j0aoe4sfxkm6q6&st=qjok74tp&raw=1",
         "introInicio": 0,
         "introFin": 0,
-        "endingInicio": 1320,
+        "endingInicio": 1297,
         "endingFin": 1411
       },
       {
@@ -487,8 +487,8 @@
         "imagen": "./assets/temporada-3/cap-8.jpg",
         "url": "https://www.dropbox.com/scl/fi/4ge1wt1ecpi1l4i9zsk8k/t3-episodio-8.mp4?rlkey=sul14u03escydiexigxqnu8nh&st=40lvgyf9&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 51,
+        "endingInicio": 1303,
         "endingFin": 1411
       },
       {
@@ -498,8 +498,8 @@
         "imagen": "./assets/temporada-3/cap-9.jpg",
         "url": "https://www.dropbox.com/scl/fi/g4ettasrvcixhxwv5fv7s/t3-episodio-9.mp4?rlkey=psoy30nrlu620o1vi943lz6cq&st=5c4711xh&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 79,
+        "endingInicio": 1300,
         "endingFin": 1411
       },
       {
@@ -509,8 +509,8 @@
         "imagen": "./assets/temporada-3/cap-10.jpg",
         "url": "https://www.dropbox.com/scl/fi/j9ml728x0oxbnnj02zm4z/t3-episodio-10.mp4?rlkey=1itaym1xp4g0nb4tuqam8y3x3&st=dzor8y1k&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 51,
+        "endingInicio": 1300,
         "endingFin": 1411
       },
       {
@@ -520,8 +520,8 @@
         "imagen": "./assets/temporada-3/cap-11.jpg",
         "url": "https://www.dropbox.com/scl/fi/ixzv16gom7rv3dfa3ymtn/t3-episodio-11.mp4?rlkey=hznvog2lo1y2q1bdvbkwb8vwy&st=xx8boren&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 79,
+        "endingInicio": 1300,
         "endingFin": 1411
       },
       {
@@ -531,8 +531,8 @@
         "imagen": "./assets/temporada-3/cap-12.jpg",
         "url": "https://www.dropbox.com/scl/fi/lxnruffde65bp6wy1y9en/t3-episodio-12.mp4?rlkey=p27udzvfq1b8z6cqps3azvk4y&st=yyiubckj&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 79,
+        "endingInicio": 1302,
         "endingFin": 1411
       },
       {
@@ -542,8 +542,8 @@
         "imagen": "./assets/temporada-3/cap-13.jpg",
         "url": "https://www.dropbox.com/scl/fi/1dnvhxx77yu2gh1kfvys6/t3-episodio-13.mp4?rlkey=0olqily9p3c48u942wb69h2aq&st=hcv0nt4d&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 79,
+        "endingInicio": 1303,
         "endingFin": 1411
       },
       {
@@ -553,8 +553,8 @@
         "imagen": "./assets/temporada-3/cap-14.jpg",
         "url": "https://www.dropbox.com/scl/fi/x9zwd17z19jvm1sl7oyko/t3-episodio-14.mp4?rlkey=ab7qodxguhtq4jcszv6qpplc0&st=s8mjtw5p&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 23,
+        "endingInicio": 1304,
         "endingFin": 1411
       },
       {
@@ -564,7 +564,7 @@
         "imagen": "./assets/temporada-3/cap-15.jpg",
         "url": "https://www.dropbox.com/scl/fi/kfii9vueydy4ss42xpjyq/t3-episodio-15.mp4?rlkey=qzh7nl7u3d9r9ozbsb1i98yhk&st=1eonq80w&raw=1",
         "introInicio": 0,
-        "introFin": 81,
+        "introFin": 79,
         "endingInicio": 1320,
         "endingFin": 1411
       },
@@ -575,8 +575,8 @@
         "imagen": "./assets/temporada-3/cap-16.jpg",
         "url": "https://www.dropbox.com/scl/fi/tqtdipyvp84a22baj4mb7/t3-episodio-16.mp4?rlkey=qyrzt1q569awyhr2sxiqclbe9&st=dejxd98m&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 23,
+        "endingInicio": 1306,
         "endingFin": 1411
       },
       {
@@ -586,8 +586,8 @@
         "imagen": "./assets/temporada-3/cap-17.jpg",
         "url": "https://www.dropbox.com/scl/fi/2nhhssgl8tgyfgyjaa7r1/t3-episodio-17.mp4?rlkey=fnrziiwetb3bowokptb4vn3xt&st=80y4uup4&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 51,
+        "endingInicio": 1300,
         "endingFin": 1411
       },
       {
@@ -597,8 +597,8 @@
         "imagen": "./assets/temporada-3/cap-18.jpg",
         "url": "https://www.dropbox.com/scl/fi/i5cnev30yremtn6zsjlp0/t3-episodio-18.mp4?rlkey=4ciadtcfk4xvybrninsq6ciw4&st=9p20xeld&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 51,
+        "endingInicio": 1310,
         "endingFin": 1411
       },
       {
@@ -608,8 +608,8 @@
         "imagen": "./assets/temporada-3/cap-19.jpg",
         "url": "https://www.dropbox.com/scl/fi/4g7swtg2g58ipiyzrmp29/t3-episodio-19.mp4?rlkey=6u1wyx3sala9b6pviva6zc3hq&st=ey704spd&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 79,
+        "endingInicio": 1289,
         "endingFin": 1411
       },
       {
@@ -619,7 +619,7 @@
         "imagen": "./assets/temporada-3/cap-20.jpg",
         "url": "https://www.dropbox.com/scl/fi/jzssoa8i6ffppqn6wi107/t3-episodio-20.mp4?rlkey=9gfhycza7l5iuu1f7560nlneu&st=1o9sjpb0&raw=1",
         "introInicio": 0,
-        "introFin": 81,
+        "introFin": 79,
         "endingInicio": 1320,
         "endingFin": 1411
       },
@@ -630,8 +630,8 @@
         "imagen": "./assets/temporada-3/cap-21.jpg",
         "url": "https://www.dropbox.com/scl/fi/yaic3o79ax09o94qjfgwx/t3-episodio-21.mp4?rlkey=1ssywkkb0tqbypcq33eanu8pw&st=pz5lemlb&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 79,
+        "endingInicio": 1304,
         "endingFin": 1411
       },
       {
@@ -641,8 +641,8 @@
         "imagen": "./assets/temporada-3/cap-22.jpg",
         "url": "https://www.dropbox.com/scl/fi/xazlgz4b0rqr0d5lqvacp/t3-episodio-22.mp4?rlkey=qeb20zbv9075bj70lrdnf4kxn&st=mekh0sx7&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 79,
+        "endingInicio": 1302,
         "endingFin": 1411
       },
       {
@@ -652,8 +652,8 @@
         "imagen": "./assets/temporada-3/cap-23.jpg",
         "url": "https://www.dropbox.com/scl/fi/0p9vvf0oshaoxifjrg91v/t3-episodio-23.mp4?rlkey=ujs4l7x0zi5pyjjdowaq8cask&st=w64x3k7q&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 79,
+        "endingInicio": 1304,
         "endingFin": 1411
       },
       {
@@ -663,8 +663,8 @@
         "imagen": "./assets/temporada-3/cap-24.jpg",
         "url": "https://www.dropbox.com/scl/fi/f7fksuwr5l11xqrvbgkd3/t3-episodio-24.mp4?rlkey=gr3qy7a5axxuz4bgrt6eo0pqc&st=1owln5bg&raw=1",
         "introInicio": 0,
-        "introFin": 81,
-        "endingInicio": 1320,
+        "introFin": 79,
+        "endingInicio": 1291,
         "endingFin": 1411
       }
     ]
