@@ -807,4 +807,9 @@ body {
   .tarjeta-serie img {
     height: 180px;
   }
+
+  #lista-videos li {
+    flex-direction: column;
+    align-items: start;
+  }
 }
