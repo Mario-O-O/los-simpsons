@@ -1448,5 +1448,287 @@
         "endingFin": 1411
       }
     ]
+  },
+  {
+    "idTemporada": "temp-07",
+    "nombreTemporada": "Temporada 7",
+    "portada": "./assets/temporada-7/portada.jpg",
+    "episodios": [
+      {
+        "idVideo": "ep-01",
+        "titulo": "Ep. 1 - ¿Quién mató al Sr. Burns? (segunda parte)",
+        "descripcion": "En el episodio previo, el Sr. Burns recibe un disparo de un agresor desconocido. Waylon Smithers cree que él podría haber sido el culpable estando ebrio, pero pronto se descubre que es inocente, por lo que la policía interroga a varios sospechosos y finalmente descubren ADN Simpson sobre el traje de Burns. El Sr. Burns se despierta y sólo es capaz de decir \"Homer Simpson\". La policía inmediatamente arresta a Homer, pero él logra escapar. Lisa investiga las pistas por su cuenta y descubre evidencias vitales probando la inocencia de Homer, pero en ese momento éste se encuentra en el hospital. Lisa, Smithers, la policía y varios ciudadanos van a la habitación del hospital de Burns, en donde encuentran a Homer amenazándolo. Burns logra salir de su trance y revela que quien le había disparado era Maggie Simpson. Marge se disculpa por lo que había hecho Maggie y todo vuelve a la normalidad.Estrella invitada: Tito Puente.",
+        "imagen": "./assets/temporada-7/cap-1.jpg",
+        "url": "https://www.dropbox.com/scl/fi/3cv5b8hw8ezf80lyfi8si/t7-episodio-1.mp4?rlkey=so0jy4d8z2us2gryhfckicyet&st=86g5ewii&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1344,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-02",
+        "titulo": "Ep. 2 - El hombre radioactivo",
+        "descripcion": "Se decide que la nueva película de El hombre radioactivo se filmaría en Springfield, y los productores anuncian que elegirían a un niño de la ciudad para el papel del Niño Fisión. Muchos de los chicos de Springfield, incluyendo a Bart y a Milhouse, audicionan para el papel, y finalmente Milhouse es seleccionado. Sin embargo, al niño no le gusta ser una estrella y huye de la producción. Se niega a regresar a la película y los productores, luego de haber sido llevados a la quiebra por el Alcalde Quimby y los ciudadanos, deciden abandonar la producción e irse de la ciudad.Estrellas invitadas: Mickey Rooney, Phil Hartman.",
+        "imagen": "./assets/temporada-7/cap-2.jpg",
+        "url": "https://www.dropbox.com/scl/fi/wpun7m84ibxmml586dbut/t7-episodio-2.mp4?rlkey=0xqdviwwtvmk4lv3sccvo2wdh&st=ua3eim0r&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1314,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-03",
+        "titulo": "Ep. 3 - Hogar, dulce hogarcirijillo",
+        "descripcion": "Una serie de desafortunadas coincidencias en la casa de los Simpson y la escuela, causan que dos agentes de asistencia social acusen a Homer y a Marge de ser padres negligentes. Como resultado, Bart, Lisa y Maggie son llevados a la casa de la familia Flanders. Para recuperar a sus hijos, Homer y Marge deben pasar un curso de paternidad, mientras que Ned descubre que los niños no están bautizados y decide hacerlo él mismo. Homer y Marge logran recuperar a sus hijos y consiguen detener la ceremonia de bautismo.Estrella invitada: Joan Kenley.",
+        "imagen": "./assets/temporada-7/cap-3.jpg",
+        "url": "https://www.dropbox.com/scl/fi/8lew5zw2f82acbcnvgqsj/t7-episodio-3.mp4?rlkey=ff2b9cc6kldnfxvcnjcmzpc8t&st=oh6cxpmo&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1311,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-04",
+        "titulo": "Ep. 4 - Bart vende su alma",
+        "descripcion": "Mientras es obligado a limpiar los tubos del órgano de la iglesia luego de haber realizado una broma, Bart le vende su alma a Milhouse por cinco dólares, para probar que tal cosa no existe. Bart comienza a arrepentirse de lo que había hecho cuando empiezan a sucederle sucesos extraños. Mientras tanto, un encuentro con la familia Hibbert le da la idea a Moe de convertir su taberna en un restaurante familiar para ganar más dinero. La familia Simpson va a cenar allí una noche y luego de pelear con Lisa, Bart se cansa y decide recuperar su alma. Milhouse se la había vendido a Jeff Albertson, quien a su vez se la había vendido a otra persona. La persona resulta ser Lisa, quien le devuelve su alma a Bart. De regreso en el restaurante familiar, Moe pierde los estribos y le grita a una niña, perdiendo todos sus clientes y volviendo a su antigua taberna.",
+        "imagen": "./assets/temporada-7/cap-4.jpg",
+        "url": "https://www.dropbox.com/scl/fi/0p0tfsf6rioqnf2xex9r1/t7-episodio-4.mp4?rlkey=ykowd4n41gcxapv1lloj116en&st=u73mi26v&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1314,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-05",
+        "titulo": "Ep. 5 - Lisa la vegetariana",
+        "descripcion": "Luego de una visita a un zoológico de mascotas, Lisa decide convertirse en vegetariana. Trata de añadir a otras personas a su causa, pero no consigue buenos resultados. Al mismo tiempo, Homer decide ofrecer una parrillada y Lisa se enfurece cuando los invitados se ríen de su sugerencia de comer gazpacho en lugar de carne. Luego, arruina la parrillada y luego de negarse a disculparse de Homer, escapa de la casa. Va al Kwik-E-Mart y se encuentra con Apu, quien revela ser vegano y aconseja a Lisa ser tolerante y no querer imponer su punto de vista sobre todo el mundo. Lisa se disculpa con Homer, admitiendo que no debería haber arruinado la parrillada.Estrellas invitadas: Paul McCartney y Linda McCartney.",
+        "imagen": "./assets/temporada-7/cap-5.jpg",
+        "url": "https://www.dropbox.com/scl/fi/j6x6svl2yf5q1efzs9vyo/t7-episodio-5.mp4?rlkey=tb1qgwlco8rsxtufbkkw3scoo&st=qfew6ran&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1311,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-06",
+        "titulo": "Ep. 6 - Especial de noche de brujas de Los Simpson VI",
+        "descripcion": "Es un especial de Halloween dividido en tres segmentos:Attack of the 50-Foot Eyesores–Una tormenta eléctrica en Springfield causa que los anuncios y las vallas publicitarias de la ciudad cobren vida y ataquen a los ciudadanos.Nightmare on Evergreen Terrace–En una parodia de las películas de a Nightmare on Elm Street, el jardinero  Willie ataca a los niños de la escuela cuando duermen como venganza a sus padres, quienes no lo habían salvado cuando se había quemado hasta morir.Homer3–Mientras busca un lugar para esconderse de Patty y Selma, Homer entra a un portal a la tercera dimensión, oculto detrás de un estante.Estrella invitada: Paul Anka.",
+        "imagen": "./assets/temporada-7/cap-6.jpg",
+        "url": "https://www.dropbox.com/scl/fi/zjr6w7o0ijv90kxhus570/t7-episodio-6.mp4?rlkey=9fkl0prdxdapexwv0d772i5sg&st=08ee24he&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 1309,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-07",
+        "titulo": "Ep. 7 - Homero tamaño familiar",
+        "descripcion": "Insatisfecho con el nuevo programa de ejercicios de la Planta de energía nuclear de Springfield, Homer decide que lo declaren incapacitado para trabajar aumentando 61 libras de peso. Logra su objetivo y comienza a trabajar en su casa. Pasa la mayor parte de su tiempo paseando, y un día trata de ir al cine. Cuando es rechazado debido a su peso, Homer regresa a su casa pero descubre que la Planta está a punto de sufrir una fusión nuclear. Para evitarla, roba un camión de helados y maneja hacia la Planta; allí consigue salvar a la ciudad cuando cae dentro de un tanque y previene la salida del gas venenoso. Como recompensa, el Sr. Burns le garantiza a Homer que lo haría delgado de nuevo, pero se rinde y decide pagar una liposucción.Estrella invitada: Joan Kenley.",
+        "imagen": "./assets/temporada-7/cap-7.jpg",
+        "url": "https://www.dropbox.com/scl/fi/9dt7mkq3f7aq5kn2km9dq/t7-episodio-7.mp4?rlkey=ywu3ixxutyjftbzw8xz6gapq9&st=ww3h3oz3&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1315,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-08",
+        "titulo": "Ep. 8 - Mamá Simpson",
+        "descripcion": "Homer finge su propia muerte para salvarse de trabajar un sábado y más tarde es obligado a ir a verificar que continúa vivo. El empleado le revela que su madre está viva, pero Homer no le cree y va a ver la tumba de su madre para probarlo. La tumba en realidad le pertenece a Walt Whitman, y Homer finalmente se encuentra con su madre. Luego, la lleva a su casa a conocer a su familia, pero no quiere contar dónde había pasado los últimos 27 años. La familia finalmente la obliga a revelar su secreto: había sido parte de un grupo de hippies radicales durante la década de 1960, y desde entonces estaba escapando del Sr. Burns y del FBI. Burns más tarde descubre dónde está Mona, por lo que ella se ve obligada a volver a esconderse.Estrellas invitadas: Glenn Close y Harry Morgan.",
+        "imagen": "./assets/temporada-7/cap-8.jpg",
+        "url": "https://www.dropbox.com/scl/fi/w9eakxhnmijk8beqhpzr0/t7-episodio-8.mp4?rlkey=fo7zsqkzflnurbaug1kac06v9&st=0f7ysrrm&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1406,
+        "endingFin": 1466
+      },
+      {
+        "idVideo": "ep-09",
+        "titulo": "Ep. 9 - La última carcajada de Bob Patiño",
+        "descripcion": "Bob Patiño escapa de prisión y roba una bomba atómica en espectáculo aéreo, amenazando con explotarla sobre Springfield si la ciudad no se deshace de la televisión. Los ciudadanos son obligados a obedecer, pero Bart y Lisa descubren que el escondite de Bob se encuentra dentro del zepelín Duff y lo enfrentan. Bob se da cuenta de que Krusty aún se encuentra en el aire, por lo que captura a Bart y a un avión y va en una misión kamikaze a matar a Krusty. Sin embargo, falla y es enviado de regreso a la prisión.Estrellas invitadas: Kelsey Grammer y R. Lee Ermey.",
+        "imagen": "./assets/temporada-7/cap-9.jpg",
+        "url": "https://www.dropbox.com/scl/fi/ymvojjh2qqcbnpavwyjhd/t7-episodio-9.mp4?rlkey=bw03p8fzleinw8yuktpj43dfe&st=2v5qelv6&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-10",
+        "titulo": "Ep. 10 - El episodio espectacular 138 de Los Simpson",
+        "descripcion": "Troy McClure conduce un episodio especial de Los Simpson, que le muestra a los espectadores un nuevo punto de vista hacia la serie. Incluye parte de los cortos emitidos originalmente en The Tracey Ullman Show, cartas de lectores, una visita al \"verdadero\" Matt Groening, preguntas sobre la serie y escenas no emitidas de episodios famosos, incluyendo el final alternativo para la segunda parte de \"Who Shot Mr. Burns\".Estrella invitada: Phil Hartman.",
+        "imagen": "./assets/temporada-7/cap-10.jpg",
+        "url": "https://www.dropbox.com/scl/fi/ztd3tjh4tzvmunrrnzeze/t7-episodio-10.mp4?rlkey=b6zuk8gwhsrglqih3knt2tdqi&st=xou6fws7&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 1316,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-11",
+        "titulo": "Ep. 11 - El bebé de mamá",
+        "descripcion": "Bart trata de robar un popular videojuego de una tienda, pero es atrapado por el guardia de seguridad. Éste le dice que no vuelva a pisar el lugar y deja un mensaje en la máquina contestadora de los Simpson. Bart logra que Marge y Homer no se enteren de lo que había hecho, pero más tarde descubre que la familia entera iría a la tienda a tomarse una foto de Navidad. El guardia de seguridad ve a Bart, y luego le muestra a Homer y a Marge el video de seguridad del niño robando el juego. Marge se vuelve distante hacia su hijo y toda la familia lo excluye en las actividades familiares. Bart teme que ha perdido el amor de su madre, y decide recuperarlo, por lo que visita la tienda y vuelve con un bulto bajo su chaqueta. Marge lo enfrenta, creyendo que había robado otra vez, pero descubre que el niño está ocultando una foto suya, la cual sería el regalo de Navidad para Marge. Marge, emocionada y agradecida, le da a Bart su regalo.Estrella invitada: Lawrence Tierney.",
+        "imagen": "./assets/temporada-7/cap-11.jpg",
+        "url": "https://www.dropbox.com/scl/fi/0abcx3sp3mryb0v2qk01y/t7-episodio-11.mp4?rlkey=xzy725nrtgh0gwz1r4cvb83nu&st=ngfg8cci&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1316,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-12",
+        "titulo": "Ep. 12 - El equipo de Homero",
+        "descripcion": "Homer crea un equipo de bowling conformado por Apu, Moe y Otto para poder ingresar en un torneo. Consigue que el Sr. Burns le dé el dinero para la inscripción durante una de sus alucinaciones inducidas por éter. El equipo gana todas las rondas, hasta que Burns descubre que había pagado para el equipo y decide unirse. Pronto comienzan a perder partidos, pero aun así llegan al campeonato y lo ganan. El equipo comienza a celebrar, pero Burns cambia de opinión y se lleva él el trofeo. Mientras tanto, los estudiantes de la Escuela Primaria de Springfield son obligados a utilizar uniformes luego de que Bart va a la escuela con una camiseta que contiene un mensaje escandaloso.",
+        "imagen": "./assets/temporada-7/cap-12.jpg",
+        "url": "https://www.dropbox.com/scl/fi/ghnxv8rrtslymum9r6ns9/t7-episodio-12.mp4?rlkey=hrszacg4j6ldg0m91yusis3b4&st=r5ctdxx2&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1317,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-13",
+        "titulo": "Ep. 13 - El mal vecino",
+        "descripcion": "El antiguo presidente estadounidense George Bush se muda a Springfield y Bart comienza a molestarlo. Un día, Bush pierde el control y golpea a Bart. Homer, quien está celoso por la atención que recibe Bush, se enfurece y comienza una guerra de emboscadas. Bush finalmente decide irse de Springfield y es reemplazado por Gerald Ford.Primera aparición de Disco Stu.",
+        "imagen": "./assets/temporada-7/cap-13.jpg",
+        "url": "https://www.dropbox.com/scl/fi/ejvb6p082meqbwied8o24/t7-episodio-13.mp4?rlkey=3b5rnprpyjgboevef6bofq5g2&st=w36ga8xs&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1315,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-14",
+        "titulo": "Ep. 14 - Lucha de clases en Springfield",
+        "descripcion": "Marge encuentra un elegante traje Chanel en una tienda de ropa con descuento, y es invitada al club de campo local. Marge inmediatamente encaja en el grupo, pero se ve obligada a modificar su traje cada día para que parezca nuevo y diferente. Mientras tanto, Homer descubre que tiene un talento natural para el golf y es desafiado a un partido por el Sr. Burns. Marge, por su parte, accidentalmente destruye su traje Chanel la noche de un gran baile de gala en el cual se convertiría en una integrante oficial del club, por lo que compra un nuevo vestido de miles de dólares. Luego le exige a su familia que se comporte, pero se da cuenta de que se está volviendo muy snob y decide que no quiere unirse al club.Estrella invitada: Tom Kite.",
+        "imagen": "./assets/temporada-7/cap-14.jpg",
+        "url": "https://www.dropbox.com/scl/fi/o7xeb3k69gm8u70dnj8t2/t7-episodio-14.mp4?rlkey=p4045dbk2y8u3py58mjm9w2fw&st=zaepuneb&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1315,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-15",
+        "titulo": "Ep. 15 - Bart, el soplón",
+        "descripcion": "Bart, sin tener la intención de hacerlo, provoca una citación a Krusty el payaso de la oficina recaudadora de impuestos, luego de intentar conseguir su firma en un cheque y de exponer su evasión de impuestos. Cuando su situación financiera empeora, Krusty simula su muerte y escapa del ojo público. Sin embargo, Bart y Lisa lo encuentran y lo convencen de regresar al mundo del espectáculo.Estrella invitada: Bob Newhart.",
+        "imagen": "./assets/temporada-7/cap-15.jpg",
+        "url": "https://www.dropbox.com/scl/fi/qcfc8b83hu9n54wsq8xnr/t7-episodio-15.mp4?rlkey=p7nj688mcrz05pr9omvujwj7t&st=r0jbxfvj&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1320,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-16",
+        "titulo": "Ep. 16 - Lisa, la iconoclasta",
+        "descripcion": "Mientras investiga para un ensayo, Lisa encuentra una confesión realizada por el fundador de la ciudad, Jebediah Springfield, en la que revela que era un pirata asesino llamado Hans Sprungfeld, que había tratado de atacar a George Washington y que jamás le habían interesado los ciudadanos de Springfield. Homer decide ayudar a Lisa a expandir el mensaje, pero son arrestados. Lisa dice que Sprungfeld tiene una lengua de plata, por lo que el alcalde decide exhumar el cuerpo para probar que está equivocada. Cuando no encuentran la lengua de plata dan por terminado el asunto, pero Lisa descubre que había sido robada por Hollis Hurlbut, el anticuario local. Los dos van a revelar la verdad sobre Jebediah, pero Lisa se da cuenta de que el mito había inspirado a toda la ciudad y decide mantener el secreto.Estrella invitada: Donald Sutherland.",
+        "imagen": "./assets/temporada-7/cap-16.jpg",
+        "url": "https://www.dropbox.com/scl/fi/91eutujr6fi6eiqxvwn3l/t7-episodio-16.mp4?rlkey=klufp7ojrinzpm9xlcwrjp43h&st=6beec35q&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1316,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-17",
+        "titulo": "Ep. 17 - Homero Smithers",
+        "descripcion": "Siguiendo el consejo del Sr. Burns, Smithers se va de vacaciones y contrata a Homer para que lo reemplace, pensando que jamás podría opacarlo. Sin embargo, el plan de Smithers falla, ya que la incompetencia de Homer causa que Burns aprenda cómo hacer todo por sí mismo y ya no necesite de la ayuda de Smithers, por lo que es despedido. Homer decide ayudar a Waylon a recuperar su trabajo, pero su plan no da resultado y los dos comienzan una pelea en la oficina de Burns. Burns es accidentalmente arrojado por una ventana y vuelve a necesitar a Smithers para que haga todo por él.",
+        "imagen": "./assets/temporada-7/cap-17.jpg",
+        "url": "https://www.dropbox.com/scl/fi/l5517b2acni64q2nxbeff/t7-episodio-17.mp4?rlkey=ecizsmxf46q3x88xgmoessx9t&st=ttdduuoi&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1316,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-18",
+        "titulo": "Ep. 18 - El día que murió la violencia",
+        "descripcion": "Durante un desfile que conmemora el aniversario de Itchy & Scratchy, Bart conoce a Chester J. Lampwick, un hombre vagabundo que dice ser el verdadero creador de Itchy, y no Roger Meyers como se creía hasta ese entonces. Bart ayuda al hombre a recuperar sus derechos, pero al hacerlo el estudio queda en bancarrota y dejan de crearse dibujos de Itchy & Scratchy. Bart y Lisa deciden hacer que vuelvan a emitir la caricatura, pero descubren que otros dos niños - Lester y Eliza - ya lo habían hecho.Estrellas invitadas: Suzanne Somers, Kirk Douglas, Alex Rocco y Jack Sheldon.",
+        "imagen": "./assets/temporada-7/cap-18.jpg",
+        "url": "https://www.dropbox.com/scl/fi/bnnxlcinomx3boznt30mn/t7-episodio-18.mp4?rlkey=qmv43uislbsl2q5ejeape1c9i&st=kt84sgmq&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1314,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-19",
+        "titulo": "Ep. 19 - El sueño de amor de Selma",
+        "descripcion": "Troy McClure trata de revivir su carrera y rebatir los rumores de su bizarra vida sexual casándose con la hermana de Marge, Selma. Selma descubre que el matrimonio es una farsa pero decide que ser una esposa falsa está bien para ella. Sin embargo, Troy decide que tener un bebé ayudaría aún más a su carrera, pero Selma se niega a traer a un niño a una familia sin amor y lo abandona.Estrellas invitadas: Jeff Goldblum y Phil Hartman.",
+        "imagen": "./assets/temporada-7/cap-19.jpg",
+        "url": "https://www.dropbox.com/scl/fi/lr5i3z0w4b1z9yiis4226/t7-episodio-19.mp4?rlkey=7b1ez0wt9rwdbkb1tkj5ks3c8&st=jd2qmpcu&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1261,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-20",
+        "titulo": "Ep. 20 - Bart recorre el mundo",
+        "descripcion": "Mientras visita a Patty y Selma en el DMV en el \"Día del Trabajo con tus Padres\", Bart imprime un carnet de conducir falso para sí mismo y lo usa para ir de viaje con Milhouse, Nelson, y Martin. Mientras tanto, Homer y Lisa pasan más tiempo juntos desde el \"Día del Trabajo con tus Padres\" y se divierten muchísimo. Bart y sus amigos deciden ir a la Feria Mundial en Knoxville pero descubren que su libro de viajes era de 1986, y que la feria había terminado hace años. Atrapados en Knoxville sin dinero, Bart comienza a trabajar como aeromozo y llama a Lisa para pedirle ayuda. Lisa convence a Homer de ordenar una consola nuclear a Knoxville, consiguiendo que Bart regrese a su casa.Estrella invitada: Jim Lau.",
+        "imagen": "./assets/temporada-7/cap-20.jpg",
+        "url": "https://www.dropbox.com/scl/fi/q7lj73wskt9z38vjuujyq/t7-episodio-20.mp4?rlkey=b8p62y1tdkb2nnf1go2tt0wec&st=ft22ww61&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1322,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-21",
+        "titulo": "Ep. 21 - 22 películas cortas sobre Springfield",
+        "descripcion": "Bart y Milhouse se preguntan si les sucederían cosas interesantes a los ciudadanos de Springfield, lo que lleva a una cadena de escenas sobre la vida de los habitantes incluyendo a Apu, al Sr. Burns, al Dr. Nick, Moe, al director Skinner, al jefe Gorgory, el Hombre abeja, el Reverendo Alegría, Cletus y a Jeff Albertson.",
+        "imagen": "./assets/temporada-7/cap-21.jpg",
+        "url": "https://www.dropbox.com/scl/fi/yeiqspbvthq44ywvrxzbn/t7-episodio-21.mp4?rlkey=p11u5khmbqu6k6z872n7ajjo0&st=ex8aj1gi&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1316,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-22",
+        "titulo": "Ep. 22 - Mi héroe, el abuelo",
+        "descripcion": "La relación entre el Abuelo y Bart se deteriora y al mismo tiempo, uno de los antiguos compañeros del Abuelo durante la Segunda Guerra Mundial muere, dejando a él y al Sr. Burns como los únicos sobrevivientes de su grupo, los Peces del Infierno. En los últimos días de la guerra, la unidad había descubierto varias pinturas y habían realizado un acuerdo, colocando los cuadros en una caja y jurando que las heredaría el último en sobrevivir. Ya que Burns quiere las pinturas lo más pronto posible, ordena el asesinato del Abuelo y contrata a un sicario para realizar el trabajo. Para protegerse, el Abuelo se muda a la casa de los Simpson, en donde la familia lo instala con Bart. El Abuelo le revela el secreto del tesoro a Bart y los dos consiguen robar la llave de Burns y rescatar las pinturas. Sin embargo, son descubiertos por el Departamento de Estado, quien le devuelve las pinturas a su verdadero dueño.",
+        "imagen": "./assets/temporada-7/cap-22.jpg",
+        "url": "https://www.dropbox.com/scl/fi/1wg77p9n00mant1qsijho/t7-episodio-22.mp4?rlkey=pv57xeayr1yvrrl0xgzi0knkp&st=9ylq499c&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1317,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-23",
+        "titulo": "Ep. 23 - ¿Y dónde está el inmigrante?",
+        "descripcion": "Luego de que aparece un oso en la ciudad, el alcalde Quimby es obligado a aumentar los impuestos para pagar una patrulla anti osos. Cuando los ciudadanos se enfurecen, Quimby culpa a los inmigrantes ilegales y crea la Propuesta 24, por la cual se los deportaría. La familia descubre que Apu es un inmigrante ilegal y deciden ayudarlo a obtener su ciudadanía. Apu lo logra y Homer da un gran discurso sobre por qué se debería rechazar la Propuesta 24, pero sin embargo ésta es aprobada con el 95% de los votos y el jardinero Willie es deportado.",
+        "imagen": "./assets/temporada-7/cap-23.jpg",
+        "url": "https://www.dropbox.com/scl/fi/3b70l2g3wzk8u73agk5l7/t7-episodio-23.mp4?rlkey=ewi9oxbhhpag15yez8cd1vtr1&st=t8q05n8r&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1315,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-24",
+        "titulo": "Ep. 24 - ¡Reventón!",
+        "descripcion": "En un intento de mostrarles a sus hijos como es, Homer lleva a Bart y a Lisa al festival musical Hullabalooza, en donde es contratado como un fenómeno que puede resistir golpes de balas de cañón. Como resultado, Homer se va de gira con el festival y repentinamente adquiere fama. Cuando el festival llega a Springfield, a Homer comienza a dolerle el estómago y es enviado a un médico, quien le advierte que si recibe un cañonazo más, podría morir. Homer descarta la noticia, ya que no quiere perder su popularidad. Al principio decide hacer su trabajo, pero en el último segundo se arrepiente y esquiva la bala. Es despedido del festival y deja de ser respetado por sus hijos.Estrellas invitadas: The Smashing Pumpkins, Cypress Hill, Sonic Youth y Peter Frampton.",
+        "imagen": "./assets/temporada-7/cap-24.jpg",
+        "url": "https://www.dropbox.com/scl/fi/pdu5h56go4vyi5li0orf4/t7-episodio-24.mp4?rlkey=6n6gbur5z9g3n07nzejv3449h&st=am74hb0h&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1319,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-25",
+        "titulo": "Ep. 25 - Yo amo a Lisa",
+        "descripcion": "Al comienzo del verano, Ned Flanders le pide a Homer que cuidase su casa en la playa en Little Pwagmattasquarmsettport. La familia decide ir allí y Lisa, dándose cuenta de que no es tan interesante como piensa, usa la nueva ciudad como su oportunidad de deshacerse de su antigua imagen y se convierte en una chica buena onda. Pronto traba amistad con una niña llamada Erin y un grupo de chicos, pero Bart se pone celoso y les revela que Lisa es, en realidad, la consentida de la maestra. La niña escapa llorando, pensando que había perdido a sus nuevos amigos, pero por la noche la sorprenden y le dicen que es una buena amiga.Estrella invitada: Christina Ricci.",
+        "imagen": "./assets/temporada-7/cap-25.jpg",
+        "url": "https://www.dropbox.com/scl/fi/8a596alxaw7zknt5wijre/t7-episodio-25.mp4?rlkey=xbfw0thbvzeavmysydkpr8cyr&st=28z4v0fo&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1315,
+        "endingFin": 1411
+      }
+    ]
   }
 ]
