@@ -1730,5 +1730,287 @@
         "endingFin": 1411
       }
     ]
+  },
+  {
+    "idTemporada": "temp-08",
+    "nombreTemporada": "Temporada 8",
+    "portada": "./assets/temporada-8/portada.jpg",
+    "episodios": [
+      {
+        "idVideo": "ep-01",
+        "titulo": "Ep. 1 - Especial de noche de brujas VII",
+        "descripcion": "Es un especial de Halloween dividido en tres segmentos: The Thing and I – Bart descubre que tiene un gemelo malvado viviendo en el ático. The Genesis Tub – Lisa crea un universo en miniatura en un recipiente con un diente y refresco. Citizen Kang – Kang y Kodos suplantan a Bill Clinton y Bob Dole para invadir la Tierra.",
+        "imagen": "./assets/temporada-8/cap-1.jpg",
+        "url": "https://www.dropbox.com/scl/fi/uzethlkgr3xzrnhsnuu7a/t8-episodio-1.mp4?rlkey=s2f8xx49c365j3wk4i0kwuata&st=rqqu083i&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-02",
+        "titulo": "Ep. 2 - Sólo se muda dos veces",
+        "descripcion": "Homer acepta un trabajo en la Corporación Globex y la familia se muda a Cypress Creek. Su jefe, Hank Scorpio, es un genio diabólico, pero Homer no se da cuenta. El resto de la familia no se adapta y Homer debe decidir si quedarse o volver a Springfield.",
+        "imagen": "./assets/temporada-8/cap-2.jpg",
+        "url": "https://www.dropbox.com/scl/fi/uiv4ne0yxdijoi1gefc39/t8-episodio-2.mp4?rlkey=viyuzukpme9fzzhmizwhgiq8p&st=jurx9284&raw=1",
+        "introInicio": 0,
+        "introFin": 50,
+        "endingInicio": 1316,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-03",
+        "titulo": "Ep. 3 - Homero por el campeonato",
+        "descripcion": "Moe descubre que Homer tiene una resistencia sobrehumana a los golpes y lo convierte en boxeador. Su estrategia es dejar que los rivales se cansen de pegarle. Finalmente, debe enfrentarse al campeón Drederick Tatum.",
+        "imagen": "./assets/temporada-8/cap-3.jpg",
+        "url": "https://www.dropbox.com/scl/fi/4pondj9cn6z2bcs5lzptx/t8-episodio-3.mp4?rlkey=7oxblbhrhf2kd002nthvoq7uw&st=fkxwisoy&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1319,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-04",
+        "titulo": "Ep. 4 - Papi Burns",
+        "descripcion": "Larry, el hijo perdido del Sr. Burns, aparece en Springfield. Aunque Burns intenta aceptarlo, Larry resulta no ser muy brillante. Homer ayuda a Larry a fingir un secuestro para ganar el cariño de su padre, pero el plan sale mal.",
+        "imagen": "./assets/temporada-8/cap-4.jpg",
+        "url": "https://www.dropbox.com/scl/fi/ud8fal9puxjw868utfmug/t8-episodio-4.mp4?rlkey=4pt524o9yhpb3umnh2hi33vh0&st=z3ckr18r&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1320,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-05",
+        "titulo": "Ep. 5 - Bart de noche",
+        "descripcion": "Bart termina trabajando en una casa de burlesque para pagar por una gárgola que rompió. Marge lidera un movimiento para demoler el local, pero Homer convence a la ciudad de su valor histórico con una canción.",
+        "imagen": "./assets/temporada-8/cap-5.jpg",
+        "url": "https://www.dropbox.com/scl/fi/biktia94eg6889ulot5rx/t8-episodio-5.mp4?rlkey=rmzo1gzrkfdlcj19awchz2qah&st=t8xzq4rt&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-06",
+        "titulo": "Ep. 6 - Milhouse dividido",
+        "descripcion": "Kirk y Luann Van Houten se divorcian tras una pelea en casa de los Simpson. Homer, temiendo por su propio matrimonio, decide divorciarse de Marge en secreto para pedirle matrimonio de nuevo y empezar de cero.",
+        "imagen": "./assets/temporada-8/cap-6.jpg",
+        "url": "https://www.dropbox.com/scl/fi/mu5ncvyam5ue4o1lz43op/t8-episodio-6.mp4?rlkey=cagpfmrbwgvuqba1g0zoijx1d&st=hzslh8zy&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-07",
+        "titulo": "Ep. 7 - El soso romance de Lisa",
+        "descripcion": "Lisa se siente atraída por Nelson Muntz e intenta cambiar su comportamiento para que sea una mejor persona. Mientras tanto, Homer usa una máquina de autollamadas para estafar a la gente de Springfield.",
+        "imagen": "./assets/temporada-8/cap-7.jpg",
+        "url": "https://www.dropbox.com/scl/fi/yt832lxhthdiu5rqrv8la/t8-episodio-7.mp4?rlkey=0d412e2lmjhwfjh25rheo14sz&st=e86dw1po&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-08",
+        "titulo": "Ep. 8 - Huracán Neddy",
+        "descripcion": "Un huracán destruye la casa de los Flanders. Tras ver la mala reconstrucción hecha por sus vecinos, Ned sufre un colapso nervioso y termina en una institución mental, donde debe enfrentar traumas de su infancia.",
+        "imagen": "./assets/temporada-8/cap-8.jpg",
+        "url": "https://www.dropbox.com/scl/fi/lsmldkfx92p8vz3a55a27/t8-episodio-8.mp4?rlkey=vfx4pw3om62kryn32zi0i9k8t&st=6gnj83rx&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-09",
+        "titulo": "Ep. 9 - El viaje misterioso de nuestro Homero",
+        "descripcion": "Tras comer chiles extremadamente picantes, Homer tiene una alucinación mística con un coyote que le dice que encuentre a su alma gemela. Esto le lleva a cuestionar si Marge es realmente la persona adecuada para él.",
+        "imagen": "./assets/temporada-8/cap-9.jpg",
+        "url": "https://www.dropbox.com/scl/fi/ydn376i6mlnlbw0qu0wt8/t8-episodio-9.mp4?rlkey=8nmzcih9pixslran36d4tde4p&st=f768amd9&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-10",
+        "titulo": "Ep. 10 - Los expedientes secretos de Springfield",
+        "descripcion": "Homer cree haber visto a un extraterrestre en el bosque. Los agentes Mulder y Scully de Expediente X llegan a investigar. Al final se descubre que el alien es un Sr. Burns medicado y resplandeciente.",
+        "imagen": "./assets/temporada-8/cap-10.jpg",
+        "url": "https://www.dropbox.com/scl/fi/i0nmrwb2l40wo5wf0uipj/t8-episodio-10.mp4?rlkey=d0csalhpwidt8otbyp9b41mrj&st=y0yj34hi&raw=1",
+        "introInicio": 0,
+        "introFin": 80,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-11",
+        "titulo": "Ep. 11 - El turbio y oscuro mundo de Marge Simpson",
+        "descripcion": "Marge abre un negocio de pretzels, pero se enfrenta a la dura competencia de otras amigas de Springfield. Homer pide ayuda a la mafia de Tony el Gordo para sabotear a la competencia, lo que genera un conflicto entre mafias.",
+        "imagen": "./assets/temporada-8/cap-11.jpg",
+        "url": "https://www.dropbox.com/scl/fi/npvulz3jr66tgqy71o5bp/t8-episodio-11.mp4?rlkey=h1w3c66cfwwh9ke64dqsc07y5&st=uceohx0s&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-12",
+        "titulo": "Ep. 12 - La montaña de la locura",
+        "descripcion": "El Sr. Burns organiza un ejercicio de supervivencia en la montaña. Homer y Burns terminan atrapados en una cabaña bajo una avalancha, donde la paranoia y la falta de oxígeno los vuelven locos.",
+        "imagen": "./assets/temporada-8/cap-12.jpg",
+        "url": "https://www.dropbox.com/scl/fi/bavfjo3m2w38sxmupdqku/t8-episodio-12.mp4?rlkey=i35eu6y3gg051veyhv1ut9tyn&st=t6ss3uzv&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1321,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-13",
+        "titulo": "Ep. 13 - Simpsoncalifragilisticoespialidoso",
+        "descripcion": "Los Simpson contratan a una niñera mágica llamada Shary Bobbins, una parodia de Mary Poppins. Aunque intenta reformar a la familia, termina dándose cuenta de que son imposibles de cambiar y se marcha.",
+        "imagen": "./assets/temporada-8/cap-13.jpg",
+        "url": "https://www.dropbox.com/scl/fi/xmiw0ti8wkslfpvgz6ohw/t8-episodio-13.mp4?rlkey=ptjcrddq8nnk97zkaajzox36h&st=emag4cmf&raw=1",
+        "introInicio": 0,
+        "introFin": 80,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-14",
+        "titulo": "Ep. 14 - El espectáculo de Tomy, Daly y Poochie",
+        "descripcion": "Para mejorar la audiencia, se añade un nuevo personaje, Poochie, a la serie de Rasca y Pica. Homer pone la voz al personaje, pero Poochie es odiado por los fans y rápidamente eliminado de la serie.",
+        "imagen": "./assets/temporada-8/cap-14.jpg",
+        "url": "https://www.dropbox.com/scl/fi/2boib5hffureumgut18eu/t8-episodio-14.mp4?rlkey=zg9vjhcusjqnhiw7a8odser6c&st=tfmt8zl6&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-15",
+        "titulo": "Ep. 15 - La fobia de Homero",
+        "descripcion": "Los Simpson se hacen amigos de John, un coleccionista de antigüedades. Cuando Homer descubre que John es gay, teme que Bart también lo sea e intenta hacerlo más masculino llevándolo de caza.",
+        "imagen": "./assets/temporada-8/cap-15.jpg",
+        "url": "https://www.dropbox.com/scl/fi/wu74pprmeb95y0w3r3l7w/t8-episodio-15.mp4?rlkey=bmjiqnxzhby8m5aki4pgz5eaq&st=9g1zh1lp&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1309,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-16",
+        "titulo": "Ep. 16 - El hermano de otra serie",
+        "descripcion": "El Actor Secundario Bob sale de prisión bajo la custodia de su hermano Cecil. Aunque Bob afirma estar rehabilitado, Bart sospecha de él, pero resulta que es Cecil quien planea destruir la presa de Springfield.",
+        "imagen": "./assets/temporada-8/cap-16.jpg",
+        "url": "https://www.dropbox.com/scl/fi/h6l0vsd8v3wvj6c1kdo4x/t8-episodio-16.mp4?rlkey=7l7kjlo8uch1fwliut9a4wl9o&st=fj4ev5d1&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1315,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-17",
+        "titulo": "Ep. 17 - Niñera, mi hermana",
+        "descripcion": "Lisa empieza a trabajar como niñera y tiene éxito hasta que le toca cuidar a Bart. Este se propone hacerle la noche imposible, lo que acaba con Bart herido y Lisa intentando ocultar el accidente.",
+        "imagen": "./assets/temporada-8/cap-17.jpg",
+        "url": "https://www.dropbox.com/scl/fi/ay82hpcd165mgg37nwmn9/t8-episodio-17.mp4?rlkey=k0rl0ltm3crp1uew1np40j58w&st=h7c20gp4&raw=1",
+        "introInicio": 0,
+        "introFin": 30,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-18",
+        "titulo": "Ep. 18 - Homero contra la prohibición",
+        "descripcion": "Se implanta la ley seca en Springfield tras un incidente en el desfile de San Patricio. Homer se convierte en el Barón de la Cerveza traficando alcohol, mientras el inspector Rex Banner intenta capturarlo.",
+        "imagen": "./assets/temporada-8/cap-18.jpg",
+        "url": "https://www.dropbox.com/scl/fi/7e64lqrx5q6shhvbvxsha/t8-episodio-18.mp4?rlkey=5v8sj251k6nea443ehb7wp0l9&st=zp9jofdy&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-19",
+        "titulo": "Ep. 19 - Amor en la escuela",
+        "descripcion": "El director Skinner y la profesora Krabappel inician un romance secreto. Bart los descubre y se convierte en su mensajero para que no revelen su relación, pero finalmente la verdad sale a la luz.",
+        "imagen": "./assets/temporada-8/cap-19.jpg",
+        "url": "https://www.dropbox.com/scl/fi/v5hbyq18s2uzpbdv916ki/t8-episodio-19.mp4?rlkey=x9lp3ysapc894fzneznm71h0v&st=2sn5jtut&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-20",
+        "titulo": "Ep. 20 - Motín canino",
+        "descripcion": "Bart consigue una tarjeta de crédito y compra un perro de lujo llamado Laddie. Cuando no puede pagar, entregan al Pequeño Ayudante de Santa en su lugar, y Bart debe recuperarlo tras darse cuenta de su error.",
+        "imagen": "./assets/temporada-8/cap-20.jpg",
+        "url": "https://www.dropbox.com/scl/fi/wcjn3oqhd1chcrzdyphmr/t8-episodio-20.mp4?rlkey=yl4bicdvzgf6o0wfi53fqych7&st=f0y30boc&raw=1",
+        "introInicio": 0,
+        "introFin": 86,
+        "endingInicio": 1320,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-21",
+        "titulo": "Ep. 21 - El viejo y la Lisa",
+        "descripcion": "El Sr. Burns pierde su fortuna y Lisa lo ayuda a recuperarla mediante el reciclaje. Sin embargo, Burns crea una planta que tritura vida marina para fabricar Pasta de Burns, lo que horroriza a Lisa.",
+        "imagen": "./assets/temporada-8/cap-21.jpg",
+        "url": "https://www.dropbox.com/scl/fi/5bm9veb2xsackbvg5dbyt/t8-episodio-21.mp4?rlkey=s7azrrsvb18e16jwyq3frmou8&st=4skjm3t6&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-22",
+        "titulo": "Ep. 22 - Pregúntale a Marge",
+        "descripcion": "Marge se convierte en consejera de la iglesia cuando el Reverendo Lovejoy pierde el interés. Mientras tanto, Homer descubre que su cara es el logo de un detergente japonés llamado Mr. Chispa.",
+        "imagen": "./assets/temporada-8/cap-22.jpg",
+        "url": "https://www.dropbox.com/scl/fi/d4ur71yrmhaihyedw1o97/t8-episodio-22.mp4?rlkey=nqzsioiptx8igipsopds1loi8&st=wf7e3bm2&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-23",
+        "titulo": "Ep. 23 - El enemigo de Homero",
+        "descripcion": "Frank Grimes, un hombre que ha trabajado duro toda su vida, entra a trabajar en la planta nuclear y se horroriza por la pereza y el éxito de Homer. La frustración lo lleva a un final trágico.",
+        "imagen": "./assets/temporada-8/cap-23.jpg",
+        "url": "https://www.dropbox.com/scl/fi/49zl17a37j0exc798hs52/t8-episodio-23.mp4?rlkey=ol62g108ohhp4gvhunnrrd8ar&st=otqw92hn&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-24",
+        "titulo": "Ep. 24 - El repertorio de refritos de Los Simpson",
+        "descripcion": "Troy McClure presenta tres posibles series derivadas de los Simpson: una de Wiggum y Skinner como detectives, otra del Abuelo en una máquina de amor, y un programa de variedades familiar.",
+        "imagen": "./assets/temporada-8/cap-24.jpg",
+        "url": "https://www.dropbox.com/scl/fi/v46ny8zzmyqda7dz2df87/t8-episodio-24.mp4?rlkey=15pmfks24emmyrfscphid0zzh&st=2ajzjb23&raw=1",
+        "introInicio": 0,
+        "introFin": 0,
+        "endingInicio": 1345,
+        "endingFin": 1411
+      },
+      {
+        "idVideo": "ep-25",
+        "titulo": "Ep. 25 - La guerra secreta de Lisa Simpson",
+        "descripcion": "Bart es enviado a una escuela militar por su mala conducta y Lisa decide unirse también. Siendo la única chica, sufre el rechazo de sus compañeros, pero logra graduarse con la ayuda secreta de Bart.",
+        "imagen": "./assets/temporada-8/cap-25.jpg",
+        "url": "https://www.dropbox.com/scl/fi/v5q8jk5iadns5hkeq6lna/t8-episodio-25.mp4?rlkey=tnito9y15gb9lp4i83fav6heg&st=nb9e763r&raw=1",
+        "introInicio": 0,
+        "introFin": 25,
+        "endingInicio": 1313,
+        "endingFin": 1411
+      }
+    ]
   }
 ]
